@@ -21,7 +21,7 @@ img{max-width:100%;display:block;}
 .blob{position:absolute;border-radius:46% 54% 60% 40% / 52% 44% 56% 48%;z-index:0;animation:float 10s ease-in-out infinite;}
 .blob.b2{border-radius:60% 40% 45% 55% / 55% 58% 42% 45%;animation-duration:13s;animation-delay:-3s;}
 .blob.b3{border-radius:42% 58% 63% 37% / 60% 42% 58% 40%;animation-duration:11s;animation-delay:-6s;}
-@keyframes float{0%,100%{transform:translateY(0) rotate(0deg);}50%{transform:translateY(-18px) rotate(6deg);}}
+@keyframes float{0%,100%{transform:translateY(0) rotate(0deg);}50%{transform:translateY(-28px) rotate(9deg) scale(1.04);}}
 .doodle{position:absolute;z-index:0;opacity:.9;pointer-events:none;}
 html.js main > section{opacity:0;transform:translateY(26px);transition:opacity .7s ease,transform .7s ease;}
 html.js main > section.in{opacity:1;transform:none;}
@@ -255,3 +255,9 @@ footer a{color:var(--berryink);font-weight:700;}
 .credcard h3{font-size:18px;color:var(--ink);margin-bottom:9px;line-height:1.25;}
 .credcard p{font-size:14.5px;color:var(--grey);line-height:1.6;}
 @media(max-width:720px){ .creds{grid-template-columns:1fr;max-width:420px;margin-left:auto;margin-right:auto;} }
+
+/* ---- livelier hover motion ---- */
+.q,.pill,.plan,.faq{transition:transform .16s ease, box-shadow .16s ease;}
+.q:hover,.pill:hover,.plan:hover,.faq:hover{transform:translateY(-6px);box-shadow:0 22px 42px rgba(44,44,52,.13);}
+.btn{transition:transform .12s ease, box-shadow .12s ease;}
+.btn:hover{transform:translateY(-2px);box-shadow:0 13px 28px rgba(232,93,147,.42);}
