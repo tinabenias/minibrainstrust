@@ -1,0 +1,17 @@
+{
+  "name": "mini-brains-trust",
+  "type": "module",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "dependencies": {
+    "@astrojs/rss": "^4.0.7",
+    "@astrojs/sitemap": "^3.2.1",
+    "@fontsource/fredoka": "^5.0.0",
+    "@fontsource/quicksand": "^5.0.0",
+    "astro": "^4.16.0"
+  }
+}

@@ -1,0 +1,76 @@
+---
+import Base from '../layouts/Base.astro';
+
+const faqs = [
+  {
+    q: 'What ages is Mini Brains Trust for?',
+    a: 'It is designed for children aged three to five, the years when the ground is softest for growing attention, curiosity and the other human strengths. Activities can be made easier or harder to suit where your child is at.',
+  },
+  {
+    q: 'Does my child use a screen?',
+    a: 'No. The app is for you, the parent. You get the day’s play and the words to say, then your child plays in the real world with you. The screen never goes to your little one.',
+  },
+  {
+    q: 'How much preparation is involved?',
+    a: 'Very little. Most activities need nothing but you, your child, and what is already in the house or backyard. No printing, no shopping, no special kit.',
+  },
+  {
+    q: 'How long does each activity take?',
+    a: 'About ten minutes. They are little bursts that fit a real day, not another big commitment on your plate. Do one, or do a few, it is up to you.',
+  },
+  {
+    q: 'Is it safe?',
+    a: 'Every activity is written with safety in mind, and safety notes are included where they matter. As with any play at this age, your supervision is part of it. We never suggest anything that puts a child at risk.',
+  },
+  {
+    q: 'Do you sell my data or train AI on it?',
+    a: 'Never. We will not sell, rent or trade your information, and we will never use your data or anything about your child to train AI models. What happens at your kitchen table stays there.',
+  },
+  {
+    q: 'How much will it cost?',
+    a: 'One simple monthly subscription, with no tiers and no ads. Founding families who join the waitlist lock in a special early price. We will announce it to the waitlist first.',
+  },
+  {
+    q: 'When does it launch?',
+    a: 'We are building it now. Join the waitlist and you will get early access, a founding-member price, and a real say in what we make.',
+  },
+  {
+    q: 'Is it Australian?',
+    a: 'Yes, made in Australia, with Australian families, wildlife and weather in mind. Water for the birds, hats in the sun, and inside when it thunders.',
+  },
+];
+
+const faqSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: faqs.map((f) => ({
+    '@type': 'Question',
+    name: f.q,
+    acceptedAnswer: { '@type': 'Answer', text: f.a },
+  })),
+};
+---
+<Base title="FAQ" description="Common questions about Mini Brains Trust: ages, screens, prep, safety, privacy, pricing and launch.">
+  <main>
+    <section>
+      <div class="wrap bloghead">
+        <p class="sec-tag">Questions</p>
+        <h1>Frequently asked questions</h1>
+        <p>The things parents ask us most. Anything else, just <a href="/contact" style="color:var(--berryink);font-weight:700">get in touch</a>.</p>
+      </div>
+    </section>
+    <section>
+      <div class="wrap">
+        <div class="faqlist">
+          {faqs.map((f) => (
+            <div class="faq">
+              <h3>{f.q}</h3>
+              <p>{f.a}</p>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+    <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
+  </main>
+</Base>

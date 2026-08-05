@@ -1,0 +1,41 @@
+---
+import Base from '../layouts/Base.astro';
+// EDIT ME: set your real price here when you've decided. Leave as-is to show "coming soon".
+const price = null; // e.g. "12" for $12/month
+const currency = 'AUD';
+---
+<Base title="Pricing" description="One simple subscription. Founding families lock in a special early price. Join the waitlist to hear it first.">
+  <main>
+    <section>
+      <div class="wrap bloghead">
+        <p class="sec-tag">Pricing</p>
+        <h1>One simple subscription. No surprises.</h1>
+        <p>No tiers to decode, no upsells, no ads. Everything Mini Brains Trust offers, for one small monthly price, and you can cancel any time.</p>
+      </div>
+    </section>
+    <section>
+      <div class="wrap">
+        <div class="pricewrap">
+          <div class="plan">
+            <span class="ribbon">Founding families</span>
+            {price ? (
+              <div class="price">${price}<small>/{currency} per month</small></div>
+            ) : (
+              <div class="price">Coming soon</div>
+            )}
+            <p class="note">Early families lock in a special founding price for life. Join the waitlist and you'll be the first to hear it, before anyone else.</p>
+            <ul>
+              <li>A future-ready daily play plan, ready in a tap</li>
+              <li>Dozens of themed days, growing all the time</li>
+              <li>The rescue button for the witching hour</li>
+              <li>Little prep, no printing, no special kit</li>
+              <li>The parent library on the eight strengths</li>
+              <li>We never train AI on your child or sell your data</li>
+            </ul>
+            <a href="/#join" class="btn lg">Join the waitlist &nbsp;&rarr;</a>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+</Base>

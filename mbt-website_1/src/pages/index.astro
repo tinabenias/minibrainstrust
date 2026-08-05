@@ -1,0 +1,224 @@
+---
+import Base from '../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+const posts = (await getCollection('blog', ({ data }) => !data.draft))
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
+  .slice(0, 3);
+---
+<Base>
+<header class="hero">
+  <span class="blob" style="width:390px;height:390px;background:var(--pink);opacity:.6;right:-70px;top:-60px;"></span>
+  <span class="blob b2" style="width:270px;height:270px;background:var(--peri);opacity:.4;right:250px;top:150px;"></span>
+  <span class="blob b3" style="width:230px;height:230px;background:var(--yellow);opacity:.72;right:-40px;bottom:-50px;"></span>
+  <svg class="doodle" style="width:38px;top:30px;right:37%;color:var(--berry);animation:float 6s ease-in-out infinite;" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><path d="M12 3 L12 21 M4 8 L20 16 M20 8 L4 16"/></svg>
+  <div class="wrap">
+    <div class="herocol copy">
+      <p class="eyebrow">A future-ready kindy, run from home</p>
+      <h1>Raising a little human who can do what AI can't.</h1>
+      <p class="lead">Ready-to-go daily play for 3 to 5 year olds that grows the eight strengths a screen will never teach. Planned for you. Fun in a tap.</p>
+      <form class="form" id="waitlist-form" name="waitlist" method="POST" data-netlify="true" netlify-honeypot="bot-field">
+        <input type="hidden" name="form-name" value="waitlist">
+        <p hidden><label>Leave empty: <input name="bot-field"></label></p>
+        <div class="row">
+          <input type="text" name="first_name" placeholder="Your first name" autocomplete="given-name">
+          <input type="email" name="email" placeholder="Your email" required autocomplete="email">
+        </div>
+        <button type="submit" class="btn lg">Join the waitlist &nbsp;&rarr;</button>
+      </form>
+      <div class="thanks" id="thanks">
+        <div class="fred">You're on the list.</div>
+        <p>Thanks for backing this early. We'll be in touch before anyone else.</p>
+      </div>
+      <div class="trust">
+        <span><b>Made in Australia</b></span>
+        <span><b>No screens</b> for your little one</span>
+        <span>We <b>never train AI</b> on your child</span>
+      </div>
+    </div>
+    <div class="phonewrap">
+      <div class="phone"><img src="/phone-home.png" alt="The Mini Brains Trust app showing today's play"></div>
+    </div>
+  </div>
+</header>
+
+<main>
+
+  <section class="divider center">
+    <div class="wrap">
+      <p class="sec-tag">Why now</p>
+      <h2>AI can do the thinking. It can't do the growing up.</h2>
+      <p class="lede">The edge for your child won't be knowing the answer. It'll be the human strengths a screen quietly wears away, and three to five is when the ground is softest.</p>
+    </div>
+  </section>
+
+  <section>
+    <div class="wrap qrow">
+      <div class="q"><h3>Planned for you</h3><p>Today's activities are already chosen and ready. No planning, no Pinterest rabbit holes.</p></div>
+      <div class="q"><h3>Barely any prep</h3><p>Most need nothing but you, your child, and what's already in the house.</p></div>
+      <div class="q"><h3>Ten minutes</h3><p>Little bursts that fit a real day, not another big thing on your plate.</p></div>
+    </div>
+  </section>
+
+  <section>
+    <div class="wrap feature">
+      <div class="fvisual">
+        <span class="blob" style="width:260px;height:260px;background:var(--pink);opacity:.4;left:10px;top:0;"></span>
+        <div class="phone"><img src="/phone-activity.png" alt="A ready-to-play activity in the app"></div>
+      </div>
+      <div>
+        <p class="sec-tag">Ready to go</p>
+        <h2>Skip the Pinterest spiral.</h2>
+        <p class="lede">You could spend the evening saving activity ideas you never quite get to. Or you open the app and today's play is already planned, picked and ready. Fun at the tap of a button, not another project for you to build.</p>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="wrap feature rev">
+      <div class="fvisual">
+        <img class="doodle" src="/bird.png" alt="" style="width:76px;right:-6px;top:-26px;transform:scaleX(-1);animation:float 7s ease-in-out infinite;">
+        <div class="themes">
+          <div class="theme"><img src="/icons/birds.png" alt="Birds"><span>Birds</span></div>
+          <div class="theme"><img src="/icons/water.png" alt="Water"><span>Water</span></div>
+          <div class="theme"><img src="/icons/space.png" alt="Space"><span>Space</span></div>
+          <div class="theme"><img src="/icons/minibeasts.png" alt="Minibeasts"><span>Minibeasts</span></div>
+          <div class="theme"><img src="/icons/shapes.png" alt="Shapes"><span>Shapes</span></div>
+          <div class="theme"><img src="/icons/feelings.png" alt="Feelings"><span>Feelings</span></div>
+        </div>
+      </div>
+      <div>
+        <p class="sec-tag">A curriculum, not a craft box</p>
+        <h2>A future-ready kindy, at your kitchen table.</h2>
+        <p class="lede">Think of it as a little curriculum for the world your child is actually growing into. Themed days of play, dozens of them, each quietly building the skills that will matter most, simple enough to run at home.</p>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="wrap feature">
+      <div class="fvisual">
+        <div class="strengths">
+          <div class="st"><div class="lbl" style="color:var(--peri)">Attention</div><div class="tr"><div class="fl" style="width:70%;background:var(--peri)"></div></div></div>
+          <div class="st"><div class="lbl" style="color:var(--berry)">Curiosity</div><div class="tr"><div class="fl" style="width:55%;background:var(--berry)"></div></div></div>
+          <div class="st"><div class="lbl" style="color:var(--green)">Real world</div><div class="tr"><div class="fl" style="width:82%;background:var(--green)"></div></div></div>
+          <div class="st"><div class="lbl" style="color:var(--olive)">Sticking at it</div><div class="tr"><div class="fl" style="width:64%;background:var(--olive)"></div></div></div>
+        </div>
+      </div>
+      <div>
+        <p class="sec-tag">Learning through play</p>
+        <h2>The skills are woven in, not tacked on.</h2>
+        <p class="lede">No worksheets, no drills. Every day's activities are built to reinforce two or three of the eight strengths through play and real interaction. Your little one just thinks they're having fun.</p>
+        <div class="pill-row" style="justify-content:flex-start">
+          <span class="prow-i"><span class="d" style="background:var(--peri)"></span>Attention</span>
+          <span class="prow-i"><span class="d" style="background:var(--berry)"></span>Curiosity</span>
+          <span class="prow-i"><span class="d" style="background:var(--green)"></span>Real world</span>
+          <span class="prow-i"><span class="d" style="background:var(--pink)"></span>Creativity</span>
+          <span class="prow-i"><span class="d" style="background:var(--peach)"></span>Agency</span>
+          <span class="prow-i"><span class="d" style="background:var(--berry)"></span>Connection</span>
+          <span class="prow-i"><span class="d" style="background:var(--peri)"></span>Discernment</span>
+          <span class="prow-i"><span class="d" style="background:var(--olive)"></span>Sticking at it</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="wrap feature rev">
+      <div class="fvisual">
+        <div class="rescuebox">
+          <span class="blob" style="width:230px;height:230px;background:var(--berry);opacity:.16;"></span>
+          <div class="rescue">
+            <svg viewBox="0 0 48 48" fill="none"><g stroke="#E5482F" stroke-width="2.4" stroke-linecap="round"><line x1="24" y1="9" x2="24" y2="3"/><line x1="15" y1="13" x2="11" y2="9"/><line x1="33" y1="13" x2="37" y2="9"/><line x1="10" y1="21" x2="5" y2="19"/><line x1="38" y1="21" x2="43" y2="19"/></g><path d="M13 31 A11 12 0 0 1 35 31 Z" fill="#E5482F"/><path d="M28 18 q4.5 3 3.5 9" stroke="#fff" stroke-width="3" fill="none" stroke-linecap="round"/><rect x="15.5" y="30.5" width="17" height="4.5" rx="1.5" fill="#7c7c85"/><rect x="12.5" y="35" width="23" height="6" rx="2" fill="#6b6b73"/></svg>
+            <span>rescue us</span>
+          </div>
+        </div>
+      </div>
+      <div>
+        <p class="sec-tag">For the hard hour</p>
+        <h2>The witching hour, sorted.</h2>
+        <p class="lede">That meltdown-y stretch before bath? Tap the rescue button for a quick, silly five-minute activity that resets the mood and gets everyone through to bathtime without the tantrum.</p>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="wrap">
+      <div class="panel berry">
+        <p class="sec-tag">Built for what's next</p>
+        <h2>We keep up, so you don't have to.</h2>
+        <p class="lede">School curriculums take years to catch up on a tech world that changes every week. We don't. We stay on top of what's shifting and stay hyperfocused on one thing: the human skills that set your child up for life, wherever technology heads.</p>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="wrap">
+      <div class="panel lav">
+        <p class="sec-tag">Your family's business, no one else's</p>
+        <h2>We will never train AI on your child.</h2>
+        <p class="lede">No selling your data, no feeding it to a model, no ads chasing your kid around the internet. What happens at your kitchen table stays there.</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="founder">
+    <div class="wrap">
+      <div class="founder">
+        <div class="badge"><img src="/bird.png" alt=""></div>
+        <div>
+          <blockquote>"I grew up in the outback with a lot of space to roam and time to fill. Making my own fun, fixing things, working things out, that's what's served me most as an adult. Mini Brains Trust is the good part of a resourceful childhood, made simple for parents who are flat out."</blockquote>
+          <cite>Tina, founder and mum</cite>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  
+  <section id="blog">
+    <div class="wrap center">
+      <p class="sec-tag">From the blog</p>
+      <h2>Ideas for raising a little human in an AI world.</h2>
+      <p class="lede">Plain, practical reading for busy parents. New pieces every week.</p>
+      <div class="bgrid">
+        {posts.map((p) => (
+          <a class="bcard" href={`/blog/${p.slug}/`}>
+            <div class="cover" style={`background:${p.data.coverColor}`}>
+              <span class="cblob" style="background:rgba(255,255,255,.5);right:16px;bottom:10px;"></span>
+              <img src={`/icons/${p.data.coverIcon}.png`} alt="" />
+            </div>
+            <div class="bbody">
+              <span class="bcat">{p.data.category}</span>
+              <h3>{p.data.title}</h3>
+              <p>{p.data.description}</p>
+              <span class="bmore">Read more &rarr;</span>
+            </div>
+          </a>
+        ))}
+      </div>
+      <div class="blogcta"><a href="/blog" class="btn lg ghost">See all articles &nbsp;&rarr;</a></div>
+    </div>
+  </section>
+
+<section class="final" id="join">
+    <div class="wrap center">
+      <h2>Be one of the first families in.</h2>
+      <p class="lede">Join the waitlist for early access, a founding-member price, and a real say in what we build.</p>
+      <form class="form" id="waitlist-form-2" name="waitlist" method="POST" data-netlify="true" netlify-honeypot="bot-field">
+        <input type="hidden" name="form-name" value="waitlist">
+        <p hidden><label>Leave empty: <input name="bot-field"></label></p>
+        <div class="row">
+          <input type="text" name="first_name" placeholder="Your first name" autocomplete="given-name">
+          <input type="email" name="email" placeholder="Your email" required autocomplete="email">
+        </div>
+        <button type="submit" class="btn lg">Save my spot &nbsp;&rarr;</button>
+      </form>
+      <div class="thanks" id="thanks-2">
+        <div class="fred">You're on the list.</div>
+        <p>Thanks for backing this early. We'll be in touch before anyone else.</p>
+      </div>
+    </div>
+  </section>
+
+
+  </main>
+</Base>

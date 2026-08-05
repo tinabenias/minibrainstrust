@@ -1,0 +1,104 @@
+---
+import '@fontsource/fredoka/400.css';
+import '@fontsource/fredoka/500.css';
+import '@fontsource/fredoka/600.css';
+import '@fontsource/fredoka/700.css';
+import '@fontsource/quicksand/500.css';
+import '@fontsource/quicksand/600.css';
+import '@fontsource/quicksand/700.css';
+import '../styles/global.css';
+import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+
+interface Props {
+  title?: string;
+  description?: string;
+  ogImage?: string;
+  article?: boolean;
+}
+const {
+  title = SITE_TITLE,
+  description = SITE_DESCRIPTION,
+  ogImage = '/logo.png',
+  article = false,
+} = Astro.props;
+
+const canonical = new URL(Astro.url.pathname, Astro.site).href;
+const fullTitle = title === SITE_TITLE ? title : `${title} | ${SITE_TITLE}`;
+---
+<!DOCTYPE html>
+<html lang="en-AU">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{fullTitle}</title>
+  <meta name="description" content={description} />
+  <link rel="canonical" href={canonical} />
+  <meta name="robots" content="index, follow" />
+  <meta property="og:type" content={article ? 'article' : 'website'} />
+  <meta property="og:locale" content="en_AU" />
+  <meta property="og:title" content={fullTitle} />
+  <meta property="og:description" content={description} />
+  <meta property="og:url" content={canonical} />
+  <meta property="og:image" content={new URL(ogImage, Astro.site).href} />
+  <meta name="twitter:card" content="summary_large_image" />
+  <link rel="sitemap" href="/sitemap-index.xml" />
+  <link rel="alternate" type="application/rss+xml" title={SITE_TITLE} href="/rss.xml" />
+  <link rel="icon" href="/logo.png" />
+  <script type="application/ld+json" set:html={JSON.stringify({
+    '@context': 'https://schema.org',
+    '@type': 'Organization',
+    name: 'Mini Brains Trust',
+    description: SITE_DESCRIPTION,
+    areaServed: 'AU',
+    url: Astro.site?.href,
+  })} />
+  <script is:inline>document.documentElement.className += ' js';</script>
+</head>
+<body>
+  <div class="nav">
+    <a href="/" aria-label="Mini Brains Trust home"><img class="logo" src="/logo.png" alt="Mini Brains Trust" /></a>
+    <nav class="navlinks">
+      <a href="/about">About</a>
+      <a href="/pricing">Pricing</a>
+      <a href="/blog">Blog</a>
+      <a href="/#join" class="btn sm">Join the waitlist</a>
+    </nav>
+  </div>
+
+  <slot />
+
+  <footer>
+    <img class="logo" src="/logo.png" alt="Mini Brains Trust" />
+    <p class="footlinks">
+      <a href="/">Home</a> &nbsp;·&nbsp; <a href="/about">About</a> &nbsp;·&nbsp; <a href="/pricing">Pricing</a> &nbsp;·&nbsp; <a href="/blog">Blog</a> &nbsp;·&nbsp; <a href="/faq">FAQ</a> &nbsp;·&nbsp; <a href="/contact">Contact</a> &nbsp;·&nbsp; <a href="/privacy">Privacy</a>
+    </p>
+    <p>
+      Made in Australia for little humans and the grown-ups who love them.<br />
+      &copy; Mini Brains Trust. We never sell your data or train AI on your family.
+    </p>
+  </footer>
+
+  <script is:inline>
+    (function () {
+      function wire(f, t) {
+        var form = document.getElementById(f); if (!form) return;
+        form.addEventListener('submit', function (e) {
+          e.preventDefault();
+          var body = new URLSearchParams(new FormData(form)).toString();
+          fetch('/', { method: 'POST', headers: { 'Content-Type': 'application/x-www-form-urlencoded' }, body: body }).catch(function () {});
+          form.style.display = 'none';
+          var el = document.getElementById(t); if (el) { el.style.display = 'block'; el.scrollIntoView({ block: 'center' }); }
+        });
+      }
+      wire('waitlist-form', 'thanks'); wire('waitlist-form-2', 'thanks-2');
+      var secs = document.querySelectorAll('main > section');
+      if ('IntersectionObserver' in window) {
+        var io = new IntersectionObserver(function (es) {
+          es.forEach(function (en) { if (en.isIntersecting) { en.target.classList.add('in'); io.unobserve(en.target); } });
+        }, { threshold: 0.12 });
+        secs.forEach(function (s) { io.observe(s); });
+      } else { secs.forEach(function (s) { s.classList.add('in'); }); }
+    })();
+  </script>
+</body>
+</html>

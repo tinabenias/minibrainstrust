@@ -1,0 +1,46 @@
+---
+import Base from '../layouts/Base.astro';
+---
+<Base title="Contact" description="Get in touch with Mini Brains Trust. Questions, ideas, or just to say hello.">
+  <main>
+    <section>
+      <div class="wrap bloghead">
+        <p class="sec-tag">Say hello</p>
+        <h1>Get in touch</h1>
+        <p>A question, an idea, or feedback on the waitlist page? We would love to hear from you. Email <a href="mailto:hello@minibrainstrust.com" style="color:var(--berryink);font-weight:700">hello@minibrainstrust.com</a> or use the form below.</p>
+      </div>
+    </section>
+    <section>
+      <div class="wrap">
+        <form class="contactform" id="contact-form" name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field">
+          <input type="hidden" name="form-name" value="contact" />
+          <p hidden><label>Leave empty: <input name="bot-field" /></label></p>
+          <label for="c-name">Your name</label>
+          <input id="c-name" type="text" name="name" autocomplete="name" />
+          <label for="c-email">Your email</label>
+          <input id="c-email" type="email" name="email" required autocomplete="email" />
+          <label for="c-msg">Your message</label>
+          <textarea id="c-msg" name="message" required></textarea>
+          <button type="submit" class="btn lg">Send message &nbsp;&rarr;</button>
+        </form>
+        <div class="thanks" id="contact-thanks" style="max-width:520px;margin:20px auto 0">
+          <div class="fred">Thanks, message sent.</div>
+          <p>We'll get back to you soon.</p>
+        </div>
+      </div>
+    </section>
+  </main>
+  <script is:inline>
+    (function () {
+      var form = document.getElementById('contact-form');
+      if (!form) return;
+      form.addEventListener('submit', function (e) {
+        e.preventDefault();
+        var body = new URLSearchParams(new FormData(form)).toString();
+        fetch('/', { method: 'POST', headers: { 'Content-Type': 'application/x-www-form-urlencoded' }, body: body }).catch(function () {});
+        form.style.display = 'none';
+        var t = document.getElementById('contact-thanks'); if (t) t.style.display = 'block';
+      });
+    })();
+  </script>
+</Base>

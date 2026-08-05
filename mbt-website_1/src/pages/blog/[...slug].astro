@@ -1,0 +1,55 @@
+---
+import Base from '../../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('blog', ({ data }) => !data.draft);
+  return posts.map((post) => ({ params: { slug: post.slug }, props: { post } }));
+}
+
+const { post } = Astro.props;
+const { Content } = await post.render();
+const d = post.data;
+const dateStr = d.pubDate.toLocaleDateString('en-AU', { day: 'numeric', month: 'long', year: 'numeric' });
+---
+<Base title={d.title} description={d.description} article={true}>
+  <main>
+    <article>
+      <header class="arthero">
+        <p class="artcat">{d.category}</p>
+        <h1>{d.title}</h1>
+        <p class="artmeta">{dateStr}</p>
+        <div class="artcover" style={`background:${d.coverColor}`}>
+          <span class="cblob"></span>
+          <img src={`/icons/${d.coverIcon}.png`} alt="" />
+        </div>
+      </header>
+      <div class="article">
+        <div class="prose">
+          <Content />
+        </div>
+        <a class="backlink" href="/blog">&larr; Back to the blog</a>
+      </div>
+    </article>
+
+    <section class="final" id="join">
+      <div class="wrap center">
+        <h2>Grow these skills at home, ten minutes a day.</h2>
+        <p class="lede">Mini Brains Trust turns ideas like these into ready-to-go daily play. Join the waitlist for early access.</p>
+        <form class="form" id="waitlist-form" name="waitlist" method="POST" data-netlify="true" netlify-honeypot="bot-field">
+          <input type="hidden" name="form-name" value="waitlist" />
+          <p hidden><label>Leave empty: <input name="bot-field" /></label></p>
+          <div class="row">
+            <input type="text" name="first_name" placeholder="Your first name" autocomplete="given-name" />
+            <input type="email" name="email" placeholder="Your email" required autocomplete="email" />
+          </div>
+          <button type="submit" class="btn lg">Join the waitlist &nbsp;&rarr;</button>
+        </form>
+        <div class="thanks" id="thanks">
+          <div class="fred">You're on the list.</div>
+          <p>Thanks for backing this early. We'll be in touch before anyone else.</p>
+        </div>
+      </div>
+    </section>
+  </main>
+</Base>

@@ -1,0 +1,41 @@
+# ── Mini Brains Trust — visual editor config ──
+# Before this works, set `repo` below to your GitHub username + repo name.
+backend:
+  name: github
+  repo: YOUR_GITHUB_USERNAME/mini-brains-trust
+  branch: main
+
+# Where uploaded images are stored
+media_folder: "public/uploads"
+public_folder: "/uploads"
+
+publish_mode: editorial_workflow
+
+collections:
+  - name: "blog"
+    label: "Blog posts"
+    folder: "src/content/blog"
+    create: true
+    slug: "{{slug}}"
+    preview_path: "blog/{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Short description (for cards + Google)", name: "description", widget: "text" }
+      - { label: "Category", name: "category", widget: "string", default: "For parents" }
+      - { label: "Publish date", name: "pubDate", widget: "datetime" }
+      - { label: "Cover colour (hex, e.g. #CDDBF9)", name: "coverColor", widget: "string", default: "#CDDBF9" }
+      - { label: "Cover icon (a theme slug, e.g. birds, space, feelings)", name: "coverIcon", widget: "string", default: "birds" }
+      - { label: "Draft (hide until ready)", name: "draft", widget: "boolean", default: false }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "pages"
+    label: "Pages"
+    folder: "src/content/pages"
+    create: true
+    slug: "{{slug}}"
+    preview_path: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Short description (for Google)", name: "description", widget: "text" }
+      - { label: "Draft (hide until ready)", name: "draft", widget: "boolean", default: false }
+      - { label: "Body", name: "body", widget: "markdown" }
