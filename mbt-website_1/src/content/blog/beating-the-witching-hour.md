@@ -5,6 +5,7 @@ category: "The hard hours"
 pubDate: 2026-08-03
 coverColor: "#FFDE99"
 coverIcon: "feelings"
+coverImage: "/blog/witching-hour.jpg"
 draft: false
 ---
 

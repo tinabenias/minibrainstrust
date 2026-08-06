@@ -5,6 +5,7 @@ category: "Play ideas"
 pubDate: 2026-08-04
 coverColor: "#FFBDE3"
 coverIcon: "birds"
+coverImage: "/blog/screen-free.jpg"
 draft: false
 ---
 

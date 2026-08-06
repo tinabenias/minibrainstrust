@@ -5,6 +5,7 @@ category: "AI & childhood"
 pubDate: 2026-08-05
 coverColor: "#CDDBF9"
 coverIcon: "space"
+coverImage: "/blog/ai-world.jpg"
 draft: false
 ---
 
