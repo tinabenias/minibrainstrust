@@ -182,10 +182,16 @@ const posts = (await getCollection('blog', ({ data }) => !data.draft))
       <div class="bgrid">
         {posts.map((p) => (
           <a class="bcard" href={`/blog/${p.slug}/`}>
-            <div class="cover" style={`background:${p.data.coverColor}`}>
-              <span class="cblob" style="background:rgba(255,255,255,.5);right:16px;bottom:10px;"></span>
-              <img src={`/icons/${p.data.coverIcon}.png`} alt="" />
-            </div>
+            {p.data.coverImage ? (
+              <div class="cover photo">
+                <img class="cvimg" src={p.data.coverImage} alt="" />
+              </div>
+            ) : (
+              <div class="cover" style={`background:${p.data.coverColor}`}>
+                <span class="cblob" style="background:rgba(255,255,255,.5);right:16px;bottom:10px;"></span>
+                <img src={`/icons/${p.data.coverIcon}.png`} alt="" />
+              </div>
+            )}
             <div class="bbody">
               <span class="bcat">{p.data.category}</span>
               <h3>{p.data.title}</h3>
