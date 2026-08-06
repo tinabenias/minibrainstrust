@@ -11,7 +11,7 @@ draft: false
 
 Every parent knows the hour. Somewhere between the end of the day and the start of the bath, a small child seems to come apart at the seams. They are tired, you are tired, dinner is not ready, and everything is suddenly the worst thing that has ever happened. This is the witching hour, and it is completely normal.
 
-Here is the useful bit: a short, low-key activity is often the fastest way through it. Not a screen, which tends to wind them up and make the handover to bath even harder, but a small hands-on reset that gives their frazzled little brain something else to do. Here are five that really help, and why they work.
+Here is the useful bit: a short, low-key activity is often the fastest way through it. A screen usually backfires here, winding them up and making the handover to bath even harder. What works is a small hands-on reset that gives their frazzled little brain something else to do. Here are five that really help, and why they work.
 
 ## 1. The five-minute den
 
