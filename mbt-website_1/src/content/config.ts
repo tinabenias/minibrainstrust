@@ -11,6 +11,7 @@ const blog = defineCollection({
     // cover styling (on-brand illustrated cover)
     coverColor: z.string().default('#CDDBF9'),
     coverIcon: z.string().default('birds'),
+    coverImage: z.string().optional(),
     draft: z.boolean().default(false),
   }),
 });
