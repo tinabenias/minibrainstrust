@@ -65,13 +65,28 @@ const fullTitle = title === SITE_TITLE ? title : `${title} | ${SITE_TITLE}`;
 <body>
   <div class="nav">
     <a href="/" aria-label="Mini Brains Trust home"><img class="logo" src="/logo.png" alt="Mini Brains Trust" /></a>
-    <nav class="navlinks">
+    <button class="navtoggle" aria-label="Menu" aria-expanded="false" aria-controls="navmenu"><span></span><span></span><span></span></button>
+    <nav class="navlinks" id="navmenu">
       <a href="/about">About</a>
       <a href="/pricing">Pricing</a>
       <a href="/blog">Blog</a>
       <a href="/#join" class="btn sm">Join the waitlist</a>
     </nav>
   </div>
+  <script is:inline>
+    (function(){
+      var nav=document.querySelector('.nav');
+      var t=nav&&nav.querySelector('.navtoggle');
+      if(!nav||!t)return;
+      t.addEventListener('click',function(){
+        var open=nav.classList.toggle('open');
+        t.setAttribute('aria-expanded',open?'true':'false');
+      });
+      nav.querySelectorAll('.navlinks a').forEach(function(a){
+        a.addEventListener('click',function(){nav.classList.remove('open');t.setAttribute('aria-expanded','false');});
+      });
+    })();
+  </script>
 
   <slot />
 
