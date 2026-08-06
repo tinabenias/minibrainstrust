@@ -12,7 +12,7 @@ We collect as little as possible, we never sell it, and we never use your inform
 
 ## Who we are
 
-Mini Brains Trust is an Australian home-learning product for parents of young children. If you have any questions about this policy, contact us at hello@minibrainstrust.com.
+Mini Brains Trust is an Australian home-learning product for parents of young children. If you have any questions about this policy, contact us at hello@minibrainstrust.com.au.
 
 ## What we collect
 
@@ -38,7 +38,7 @@ Our website uses little to no tracking. We do not run advertising trackers. If w
 
 ## Your choices
 
-You can ask us at any time to show you what information we hold about you, to correct it, or to delete it entirely. Just email hello@minibrainstrust.com and we will sort it out.
+You can ask us at any time to show you what information we hold about you, to correct it, or to delete it entirely. Just email hello@minibrainstrust.com.au and we will sort it out.
 
 ## Children
 
