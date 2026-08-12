@@ -23,7 +23,7 @@ Here are twenty activities you can start in the next minute. Each one uses thing
 
 ## In the kitchen
 
-6. **Pour and fill.** A few cups of different sizes, a jug, a towel underneath. Let them pour between cups and work out which holds the most. Spills are not a mistake, they are the lesson.
+6. **Pour and fill.** A few cups of different sizes, a jug, a towel underneath. Let them pour between cups and work out which holds the most. The spills are part of the lesson.
 7. **Sink or float.** Fill a bowl, gather a few small objects, and have them guess before each one goes in.
 8. **Sort the cutlery.** Spoons here, forks there. Simple sorting is early maths, and small children love a proper job.
 9. **Smell test.** Hold out something from the pantry with their eyes closed and let them guess. Cinnamon, a lemon, a bit of coffee.
@@ -47,6 +47,6 @@ Here are twenty activities you can start in the next minute. Each one uses thing
 
 ## The only rule that matters
 
-You do not need to run these perfectly. Follow their lead, hang back more than you think you should, and let the mess happen. The point is not a tidy result. It is ten minutes of your child deciding, trying, wondering and doing, in the real world, with you.
+You do not need to run these perfectly. Follow their lead, hang back more than you think you should, and let the mess happen. Forget the tidy result. The point is ten minutes of your child deciding, trying, wondering and doing, in the real world, with you.
 
 If picking one each day feels like one more thing to plan, that is exactly what Mini Brains Trust does for you. A themed day, a handful of little activities, ready to go in a tap.

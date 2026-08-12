@@ -49,4 +49,4 @@ Staying with something hard until it works, and coming back after it goes sidewa
 
 You do not build these with worksheets or drills. You build them through play, because play is how a small child does their most serious work. The years from three to five are when the ground is softest, when a child forms their earliest habits of attention, curiosity and effort. What you do now is not about getting ahead. It is about growing the roots.
 
-That is the whole idea behind Mini Brains Trust: ten minutes a day of real-world play, planned for you, each little activity quietly building two or three of these eight. Not to replace a childhood, but to protect the best parts of one.
+That is the whole idea behind Mini Brains Trust: ten minutes a day of real-world play, planned for you, each little activity quietly building two or three of these eight, protecting the best parts of a childhood.
