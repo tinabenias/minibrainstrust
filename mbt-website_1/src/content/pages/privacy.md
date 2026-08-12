@@ -1,6 +1,6 @@
 ---
 title: "Privacy Policy"
-description: "How Mini Brains Trust handles your information. We never sell your data or train AI on your family."
+description: "How Mini Brains Trust handles your information. We collect as little as possible and never sell your data."
 draft: false
 ---
 
@@ -8,7 +8,7 @@ draft: false
 
 ## The short version
 
-We collect as little as possible, we never sell it, and we never use your information or your child's to train AI. What happens at your kitchen table stays there.
+We collect as little as possible, we never sell it, and we never share it without asking. What happens at your kitchen table stays there.
 
 ## Who we are
 
@@ -26,7 +26,7 @@ We use your email to let you know about early access, to share the occasional up
 
 ## What we will never do
 
-We will never sell, rent or trade your personal information. We will never use your data, or anything about your child, to train artificial intelligence models. We will never allow third-party advertising that targets you or your child based on your information.
+We will never sell, rent or trade your personal information. We will never allow third-party advertising that targets you or your child based on your information.
 
 ## Who can see your information
 
