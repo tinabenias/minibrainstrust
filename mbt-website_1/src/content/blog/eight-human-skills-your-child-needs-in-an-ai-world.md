@@ -50,3 +50,10 @@ Staying with something hard until it works, and coming back after it goes sidewa
 You do not build these with worksheets or drills. You build them through play, because play is how a small child does their most serious work. The years from three to five are when the ground is softest, when a child forms their earliest habits of attention, curiosity and effort. What you do now is not about getting ahead. It is about growing the roots.
 
 That is the whole idea behind Mini Brains Trust: ten minutes a day of real-world play, planned for you, each little activity quietly building two or three of these eight, protecting the best parts of a childhood.
+
+## Keep reading
+
+- [Will AI take my child's job? A calm look at the future of work](/blog/will-ai-take-my-childs-job/)
+- [The human skills AI can't replace, and how to grow them early](/blog/human-skills-ai-cant-replace/)
+- [How to raise a curious child](/blog/how-to-raise-a-curious-child/)
+- [Screen-free activities for 3 year olds](/blog/screen-free-activities-for-3-year-olds/)

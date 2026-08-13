@@ -50,3 +50,10 @@ Here are twenty activities you can start in the next minute. Each one uses thing
 You do not need to run these perfectly. Follow their lead, hang back more than you think you should, and let the mess happen. Forget the tidy result. The point is ten minutes of your child deciding, trying, wondering and doing, in the real world, with you.
 
 If picking one each day feels like one more thing to plan, that is exactly what Mini Brains Trust does for you. A themed day, a handful of little activities, ready to go in a tap.
+
+## Keep reading
+
+- [Screen-free activities for 3 year olds that actually hold their attention](/blog/screen-free-activities-for-3-year-olds/)
+- [Beating the witching hour: five calm activities that work](/blog/beating-the-witching-hour/)
+- [How to raise a curious child](/blog/how-to-raise-a-curious-child/)
+- [The eight human skills your child will need in an AI world](/blog/eight-human-skills-your-child-needs-in-an-ai-world/)

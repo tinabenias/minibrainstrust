@@ -40,3 +40,9 @@ It is tempting, in the thick of it, to hand over a device just to buy quiet. It 
 This is the exact thinking behind the rescue button we built into Mini Brains Trust. When you are at the end of your rope, you tap it and get one quick, calm activity to get everyone through to bathtime without the tantrum. No planning, no screen, just a hand to hold when the hour turns hard.
 
 And on the days when nothing works and everyone ends up in tears anyway, that is normal too. Tomorrow is a fresh run at it.
+
+## Keep reading
+
+- [Screen-free activities for 3 year olds](/blog/screen-free-activities-for-3-year-olds/)
+- [Twenty screen-free activities you can do in ten minutes flat](/blog/screen-free-activities-you-can-do-in-ten-minutes/)
+- [How to raise a curious child](/blog/how-to-raise-a-curious-child/)
