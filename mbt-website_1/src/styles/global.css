@@ -315,3 +315,13 @@ footer a{color:var(--berryink);font-weight:700;}
   .featmedia{min-height:220px;}
   .featbody{padding:26px 24px;}
 }
+
+/* Blog post: social share row */
+.share{display:flex;align-items:center;flex-wrap:wrap;gap:10px;margin:38px 0 6px;}
+.sharelbl{font-family:'Fredoka';font-weight:600;font-size:15px;color:var(--grey);margin-right:4px;}
+.sbtn{width:44px;height:44px;padding:0;display:inline-flex;align-items:center;justify-content:center;border-radius:50%;background:#fff;color:var(--ink);border:2px solid var(--line);cursor:pointer;position:relative;transition:transform .12s ease,border-color .12s ease,color .12s ease,box-shadow .12s ease;}
+.sbtn svg{width:19px;height:19px;display:block;}
+.sbtn:hover{transform:translateY(-3px);border-color:var(--berry);color:var(--berryink);box-shadow:0 9px 18px rgba(232,93,147,.22);}
+.sbtn .copied{position:absolute;bottom:-24px;left:50%;transform:translateX(-50%);font-family:'Fredoka';font-weight:600;font-size:12px;color:var(--green);opacity:0;pointer-events:none;transition:opacity .15s ease;white-space:nowrap;}
+.sbtn.copy.done{border-color:var(--green);color:var(--green);}
+.sbtn.copy.done .copied{opacity:1;}
