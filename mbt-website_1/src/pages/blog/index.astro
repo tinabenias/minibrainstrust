@@ -4,6 +4,9 @@ import { getCollection } from 'astro:content';
 
 const posts = (await getCollection('blog', ({ data }) => !data.draft))
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+
+const featured = posts[0];
+const categories = [...new Set(posts.map((p) => p.data.category))];
 ---
 <Base title="Blog" description="Plain, practical reading for parents raising 3 to 5 year olds in an AI world. Screen-free play, the skills that matter, and getting through the hard hours.">
   <main>
@@ -13,11 +16,49 @@ const posts = (await getCollection('blog', ({ data }) => !data.draft))
         <p>Plain, practical reading for busy Australian parents. Screen-free play, the skills that matter most, and honest help for the hard hours.</p>
       </div>
     </section>
+
+    {featured && (
+      <section class="featwrap" id="featured">
+        <div class="wrap">
+          <a class="featcard" href={`/blog/${featured.slug}/`}>
+            <div class="featmedia">
+              {featured.data.coverImage ? (
+                <img class="cvimg" src={featured.data.coverImage} alt="" />
+              ) : (
+                <div class="cover" style={`background:${featured.data.coverColor}`}>
+                  <span class="cblob" style="background:rgba(255,255,255,.5);right:16px;bottom:10px;"></span>
+                  <img src={`/icons/${featured.data.coverIcon}.png`} alt="" />
+                </div>
+              )}
+            </div>
+            <div class="featbody">
+              <span class="featflag">Latest</span>
+              <span class="bcat">{featured.data.category}</span>
+              <h2>{featured.data.title}</h2>
+              <p>{featured.data.description}</p>
+              <span class="bmore">Read more &rarr;</span>
+            </div>
+          </a>
+        </div>
+      </section>
+    )}
+
     <section class="bloglist">
       <div class="wrap">
+        <div class="blogfilters" role="group" aria-label="Filter articles by category">
+          <button type="button" class="chip is-on" data-cat="all" aria-pressed="true">All</button>
+          {categories.map((c) => (
+            <button type="button" class="chip" data-cat={c} aria-pressed="false">{c}</button>
+          ))}
+        </div>
+        <p class="noresults" hidden>No articles in this category yet.</p>
         <div class="bgrid">
           {posts.map((p) => (
-            <a class="bcard" href={`/blog/${p.slug}/`}>
+            <a
+              class={`bcard${featured && p.slug === featured.slug ? ' is-featured' : ''}`}
+              data-cat={p.data.category}
+              href={`/blog/${p.slug}/`}
+            >
               {p.data.coverImage ? (
                 <div class="cover photo">
                   <img class="cvimg" src={p.data.coverImage} alt="" />
@@ -39,5 +80,38 @@ const posts = (await getCollection('blog', ({ data }) => !data.draft))
         </div>
       </div>
     </section>
+
+    <script is:inline>
+      (function () {
+        var chips = document.querySelectorAll('.blogfilters .chip');
+        var cards = document.querySelectorAll('.bgrid .bcard');
+        var feat = document.getElementById('featured');
+        var empty = document.querySelector('.noresults');
+        function apply(cat) {
+          var shown = 0;
+          cards.forEach(function (card) {
+            var show = cat === 'all'
+              ? !card.classList.contains('is-featured')
+              : card.getAttribute('data-cat') === cat;
+            card.hidden = !show;
+            if (show) shown++;
+          });
+          if (feat) feat.hidden = cat !== 'all';
+          if (empty) empty.hidden = shown > 0;
+        }
+        chips.forEach(function (chip) {
+          chip.addEventListener('click', function () {
+            chips.forEach(function (c) {
+              c.classList.remove('is-on');
+              c.setAttribute('aria-pressed', 'false');
+            });
+            chip.classList.add('is-on');
+            chip.setAttribute('aria-pressed', 'true');
+            apply(chip.getAttribute('data-cat'));
+          });
+        });
+        apply('all');
+      })();
+    </script>
   </main>
 </Base>
