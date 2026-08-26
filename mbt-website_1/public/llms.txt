@@ -1,0 +1,19 @@
+# Mini Brains Trust
+
+> An Australian screen-free daily-play app and at-home kindy curriculum for 3 to 5 year olds. One planned, ten-minute, screen-free activity a day that grows the human skills a screen can't teach. Built by an Australian family. No ads, no data harvesting.
+
+## Key pages
+- [Home](https://minibrainstrust.com.au/): what Mini Brains Trust is and how it works
+- [About](https://minibrainstrust.com.au/about/): the Australian family behind it
+- [School readiness](https://minibrainstrust.com.au/school-readiness/): getting 3 to 5 year olds ready for kindy
+- [Pricing](https://minibrainstrust.com.au/pricing/): plans and what's included
+- [FAQ](https://minibrainstrust.com.au/faq/): common questions from parents
+
+## Guides
+- [Screen-free activities for 3 year olds](https://minibrainstrust.com.au/blog/screen-free-activities-for-3-year-olds/)
+- [Screen-free activities you can do in ten minutes](https://minibrainstrust.com.au/blog/screen-free-activities-you-can-do-in-ten-minutes/)
+- [Beating the witching hour](https://minibrainstrust.com.au/blog/beating-the-witching-hour/)
+- [The human skills AI can't replace](https://minibrainstrust.com.au/blog/human-skills-ai-cant-replace/)
+- [Eight human skills your child needs in an AI world](https://minibrainstrust.com.au/blog/eight-human-skills-your-child-needs-in-an-ai-world/)
+- [How to raise a curious child](https://minibrainstrust.com.au/blog/how-to-raise-a-curious-child/)
+- [Will AI take my child's job?](https://minibrainstrust.com.au/blog/will-ai-take-my-childs-job/)
