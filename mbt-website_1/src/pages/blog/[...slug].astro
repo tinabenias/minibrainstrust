@@ -11,9 +11,39 @@ const { post } = Astro.props;
 const { Content } = await post.render();
 const d = post.data;
 const dateStr = d.pubDate.toLocaleDateString('en-AU', { day: 'numeric', month: 'long', year: 'numeric' });
+
+const postUrl = new URL(`/blog/${post.slug}/`, Astro.site).href;
+const orgUrl = new URL('/', Astro.site).href;
+const articleSchema = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    {
+      '@type': 'BlogPosting',
+      '@id': postUrl + '#article',
+      headline: d.title,
+      description: d.description,
+      mainEntityOfPage: postUrl,
+      inLanguage: 'en-AU',
+      datePublished: d.pubDate.toISOString(),
+      dateModified: (d.updatedDate ?? d.pubDate).toISOString(),
+      author: { '@type': 'Person', name: 'Tina', url: new URL('/about/', Astro.site).href },
+      publisher: { '@id': orgUrl + '#org' },
+      ...(d.coverImage ? { image: new URL(d.coverImage, Astro.site).href } : {}),
+    },
+    {
+      '@type': 'BreadcrumbList',
+      itemListElement: [
+        { '@type': 'ListItem', position: 1, name: 'Home', item: orgUrl },
+        { '@type': 'ListItem', position: 2, name: 'Blog', item: new URL('/blog/', Astro.site).href },
+        { '@type': 'ListItem', position: 3, name: d.title, item: postUrl },
+      ],
+    },
+  ],
+};
 ---
 <Base title={d.title} description={d.description} article={true}>
   <main>
+    <script type="application/ld+json" set:html={JSON.stringify(articleSchema)} />
     <article>
       <header class="arthero">
         <p class="artcat">{d.category}</p>
