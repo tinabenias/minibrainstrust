@@ -5,7 +5,7 @@ const posts = (await getCollection('blog', ({ data }) => !data.draft))
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
   .slice(0, 3);
 ---
-<Base>
+<Base title="Screen-free daily play for Australian 3 to 5 year olds">
 <header class="hero">
   <span class="blob" style="width:390px;height:390px;background:var(--pink);opacity:.6;right:-70px;top:-60px;"></span>
   <span class="blob b2" style="width:270px;height:270px;background:var(--peri);opacity:.4;right:250px;top:150px;"></span>
