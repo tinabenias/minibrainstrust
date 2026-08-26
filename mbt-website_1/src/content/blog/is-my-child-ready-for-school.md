@@ -5,6 +5,7 @@ category: "School readiness"
 pubDate: 2026-08-25
 coverColor: "#E7F0D8"
 coverIcon: "numbers"
+coverImage: "/blog/play-kitchen.jpg"
 draft: false
 ---
 

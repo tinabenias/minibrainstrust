@@ -5,6 +5,7 @@ category: "Screens & real life"
 pubDate: 2026-08-26
 coverColor: "#CDDBF9"
 coverIcon: "balance"
+coverImage: "/blog/screen-free-animals.jpg"
 draft: false
 ---
 

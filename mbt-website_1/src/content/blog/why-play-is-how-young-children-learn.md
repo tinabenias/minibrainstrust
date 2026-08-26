@@ -5,6 +5,7 @@ category: "Learning through play"
 pubDate: 2026-08-24
 coverColor: "#FFBDE3"
 coverIcon: "shapes"
+coverImage: "/blog/finger-paint.jpg"
 draft: false
 ---
 
