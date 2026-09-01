@@ -8,7 +8,7 @@ coverIcon: "mirrors"
 draft: false
 ---
 
-When your three or four year old falls to pieces over the wrong colour cup, the fastest way to help is not to fix the cup or to talk them out of it. It is to stay calm yourself, get down to their level, and put simple words to what they are feeling: "you are so cross the cup is blue." You are lending them your calm and naming the storm, and for a brain this young, that is exactly the help it needs. The bigger skill of handling feelings alone comes later, and it comes from having done this with you, hundreds of times, first.
+When your three or four year old falls to pieces over the wrong colour cup, the fastest way to help is not to fix the cup or to talk them out of it. It is to stay calm yourself, get down to their level, and put simple words to what they are feeling. Something like, "you are so cross the cup is blue." You are lending them your calm and naming the storm, and for a brain this young, that is exactly the help it needs. The bigger skill of handling feelings alone comes later, and it comes from having done this with you, hundreds of times, first.
 
 Here is the part that makes the hard afternoons easier to bear: a young child having big feelings is not being difficult or manipulative. The [Raising Children Network](https://raisingchildren.net.au/toddlers/behaviour/crying-tantrums/tantrums), Australia's government-funded parenting service, is clear that tantrums happen because young children are still at an early stage of emotional and language development and cannot yet manage or express what they feel. In other words, the meltdown is a sign of a brain that is still under construction, not a child who is giving you a hard time.
 
@@ -16,7 +16,7 @@ Here is the part that makes the hard afternoons easier to bear: a young child ha
 
 Picture your child's emotional life as a car with a strong accelerator and brakes that are still being fitted. The feelings arrive fast and loud. The part of the brain that slows them down, thinks it through and chooses a calmer response is the last part to develop, and it keeps maturing well into the twenties.
 
-So when we tell an upset four year old to calm down, we are asking them to use a brake they physically do not have yet. They are not refusing. They cannot. This is why "use your words" so often lands on deaf ears in the heat of it: the very system that would let them do that has gone offline for the moment.
+So when we tell an upset four year old to calm down, we are asking them to use a brake they physically do not have yet. They are not refusing. They cannot. This is why "use your words" so often lands on deaf ears in the heat of it. The very system that would let them do that has gone offline for the moment.
 
 Knowing this changes the goal. You are not trying to win the argument about the cup. You are trying to help their nervous system come back down, and then, over months and years, to help them slowly build a brake of their own.
 
@@ -46,7 +46,7 @@ A few of our instincts in the moment quietly make things harder.
 
 - **Reaching for a screen.** It works for ten minutes and buys nothing. A device does not teach a child anything about their feelings. It only presses pause on them, and the storm often lands later, usually at bedtime.
 - **Long explanations.** A brain in full meltdown cannot follow a reasoned case for why we share the trucks. Save the chat for afterwards, when they can actually hear you.
-- **"You're okay, stop crying."** It is meant kindly, but it tells a child their feeling is wrong. Feelings are not the problem. What we do with them is. Let the feeling happen, and hold the line on the behaviour: "it is okay to be angry, it is not okay to hit."
+- **"You're okay, stop crying."** It is meant kindly, but it tells a child their feeling is wrong. Feelings are not the problem. What we do with them is. Let the feeling happen, and hold the line on the behaviour. It is okay to be angry, it is not okay to hit.
 - **Rushing to fix it.** You do not have to make the sad thing un-happen. Often a child needs their feeling witnessed far more than they need it solved.
 
 ## This is a skill they are learning, not a stage to survive
@@ -59,7 +59,7 @@ And it is worth the effort. A landmark study that followed around a thousand peo
 
 The trouble with all of this is that it asks the most of you at the exact moment you have the least to give. Nobody co-regulates beautifully every time. What helps is having calm on tap before the hard hour hits, rather than trying to conjure it mid-meltdown.
 
-That is part of why Mini Brains Trust exists. Each day it hands you one planned, screen-free, ten-minute activity for three to five year olds, with feelings woven in through play rather than lectures: games that name emotions, gentle turn-taking, the slow hands-on kind of play that settles a busy little nervous system. It is a small daily habit that builds the skill on the good days, so there is a bit more in the tank for the bad ones. You can see [how it works](/pricing/) whenever you like.
+That is part of why Mini Brains Trust exists. Each day it hands you one planned, screen-free, ten-minute activity for three to five year olds, with feelings woven in through play rather than lectures. Think games that name emotions, gentle turn-taking, and the slow hands-on kind of play that settles a busy little nervous system. It is a small daily habit that builds the skill on the good days, so there is a bit more in the tank for the bad ones. You can see [how it works](/pricing/) whenever you like.
 
 ## Big feelings questions parents ask
 
