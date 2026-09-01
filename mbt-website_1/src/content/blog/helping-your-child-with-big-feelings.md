@@ -5,6 +5,7 @@ category: "The hard hours"
 pubDate: 2026-08-30
 coverColor: "#CDDBF9"
 coverIcon: "mirrors"
+coverImage: "/blog/big-feelings.jpg"
 draft: false
 ---
 
