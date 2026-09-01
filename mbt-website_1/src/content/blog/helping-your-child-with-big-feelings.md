@@ -59,7 +59,7 @@ And it is worth the effort. A landmark study that followed around a thousand peo
 
 The trouble with all of this is that it asks the most of you at the exact moment you have the least to give. Nobody co-regulates beautifully every time. What helps is having calm on tap before the hard hour hits, rather than trying to conjure it mid-meltdown.
 
-That is part of why Mini Brains Trust exists. Each day it hands you one planned, screen-free, ten-minute activity for three to five year olds, with feelings woven in through play rather than lectures. Think games that name emotions, gentle turn-taking, and the slow hands-on kind of play that settles a busy little nervous system. It is a small daily habit that builds the skill on the good days, so there is a bit more in the tank for the bad ones. You can see [how it works](/pricing/) whenever you like.
+That is part of why Mini Brains Trust exists. Each day it hands you one planned, screen-free, ten-minute activity for three to five year olds, with feelings woven in through play rather than lectures. That means games that name emotions, gentle turn-taking, and the slow hands-on kind of play that settles a busy little nervous system. It is a small daily habit that builds the skill on the good days, so there is a bit more in the tank for the bad ones. You can see [how it works](/pricing/) whenever you like.
 
 ## Big feelings questions parents ask
 
