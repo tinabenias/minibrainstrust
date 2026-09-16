@@ -37,9 +37,9 @@ These are [the human strengths a screen can't teach](/blog/human-skills-ai-cant-
 
 You grow this the low-tech way. Let them puzzle over something before you rescue them. Ask questions you do not answer for them. Protect the boredom that forces them to invent. It is the same thinking behind [why play is how young children actually learn](/blog/why-play-is-how-young-children-learn/): the effort is not the obstacle to learning, it is the learning.
 
-## Where Mini Brains Trust fits
+## Where Mini Brains Play fits
 
-This is the whole reason we built Mini Brains Trust. Each day it hands you one planned, screen-free activity for three to five year olds, designed to grow the human strengths that keep thinking sharp: attention, curiosity, persistence and discernment. It is a small daily deposit into the account your child will draw on for the rest of their life, made at the age when those deposits count for the most.
+This is the whole reason we built Mini Brains Play. Each day it hands you one planned, screen-free activity for three to five year olds, designed to grow the human strengths that keep thinking sharp: attention, curiosity, persistence and discernment. It is a small daily deposit into the account your child will draw on for the rest of their life, made at the age when those deposits count for the most.
 
 ## Questions parents ask about AI and thinking
 

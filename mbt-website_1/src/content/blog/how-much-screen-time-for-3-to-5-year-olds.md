@@ -29,7 +29,7 @@ One study never settles a question on its own, and this one shows a link rather 
 
 ## It is less about the screen, more about what it replaces
 
-The strongest case against too much screen time is not that a screen harms a child in some direct way. It is about what the screen quietly crowds out.
+The strongest case against too much screen time is not that a screen harms a child in some direct way. It is about what the screen crowds out.
 
 An hour in front of a device is an hour not spent doing the things a young brain is actually built for at this age: the back-and-forth chatter that grows language, the hands-on fiddling that wires up fine motor skills, the stretch of boredom that turns, if you leave it alone long enough, into invention. These are the [human strengths a screen can't teach](/blog/human-skills-ai-cant-replace/), and three to five is exactly when the ground is softest for growing them.
 
@@ -50,7 +50,7 @@ This is the fun part, and it is easier than it sounds. You do not need a craft c
 
 If your child is climbing the walls, our list of [screen-free activities for 3 year olds](/blog/screen-free-activities-for-3-year-olds/) is sorted by the mood they are in. If you have a spare ten minutes and nothing prepared, [twenty screen-free activities you can do in ten minutes flat](/blog/screen-free-activities-you-can-do-in-ten-minutes/) is built for exactly that. And for the hardest stretch of all, the [witching hour before dinner](/blog/beating-the-witching-hour/), a short hands-on reset almost always lands better than a screen, which tends to wind a tired child up rather than down.
 
-Choosing the right little thing every single day is the part that wears parents out, and it is the exact job Mini Brains Trust quietly does for you. One planned, ten-minute, screen-free activity a day for three to five year olds, ready in a tap. If holding the one-hour line feels like swimming upstream, having something real to swim towards makes all the difference.
+Choosing the right little thing every single day is the part that wears parents out, and it is the exact job Mini Brains Play does for you. One planned, ten-minute, screen-free activity a day for three to five year olds, ready in a tap. If holding the one-hour line feels like swimming upstream, having something real to swim towards makes all the difference.
 
 ## Screen time questions parents ask
 

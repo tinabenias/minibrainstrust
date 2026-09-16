@@ -9,9 +9,9 @@ coverImage: "/blog/ai-world.jpg"
 draft: false
 ---
 
-For a long time, being clever meant knowing things. The child who could recall the most, answer the fastest and fill in the blank was the one we called bright. That world is quietly ending. A machine can now recall more than any of us, draft an answer in a heartbeat and fill in almost any blank you give it.
+For a long time, being clever meant knowing things. The child who could recall the most, answer the fastest and fill in the blank was the one we called bright. That world is ending. A machine can now recall more than any of us, draft an answer in a heartbeat and fill in almost any blank you give it.
 
-So the question worth asking as a parent is a different one. If a machine can do the knowing, what is left that is worth growing? The answer is the part that stays stubbornly human. The strengths a screen cannot hand your child, and in fact quietly wears away. Here are the eight we build everything around, and why the years from three to five are the time to start.
+So the question worth asking as a parent is a different one. If a machine can do the knowing, what is left that is worth growing? The answer is the part that stays stubbornly human. The strengths a screen cannot hand your child, and in fact wears away. Here are the eight we build everything around, and why the years from three to five are the time to start.
 
 ## 1. Attention
 
@@ -31,7 +31,7 @@ Making something new, rather than picking from a menu someone else wrote. A mach
 
 ## 5. Agency
 
-Being the one who decides and acts, not the one who only watches. This is quietly the most important of the eight. A child with agency tries things, makes a mess, fixes it, and learns that they can act on the world. A child who mostly watches a screen learns the opposite. Every small decision you let them make builds it.
+Being the one who decides and acts, not the one who only watches. This is the most important of the eight. A child with agency tries things, makes a mess, fixes it, and learns that they can act on the world. A child who mostly watches a screen learns the opposite. Every small decision you let them make builds it.
 
 ## 6. Connection
 
@@ -49,7 +49,7 @@ Staying with something hard until it works, and coming back after it goes sidewa
 
 You do not build these with worksheets or drills. You build them through play, because play is how a small child does their most serious work. The years from three to five are when the ground is softest, when a child forms their earliest habits of attention, curiosity and effort. What you do now is not about getting ahead. It is about growing the roots.
 
-That is the whole idea behind Mini Brains Trust: ten minutes a day of real-world play, planned for you, each little activity quietly building two or three of these eight, protecting the best parts of a childhood.
+That is the whole idea behind Mini Brains Play: ten minutes a day of real-world play, planned for you, each little activity building two or three of these eight, protecting the best parts of a childhood.
 
 ## Keep reading
 

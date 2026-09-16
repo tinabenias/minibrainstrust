@@ -68,4 +68,4 @@ Three to five is ideal, because a child forms their earliest habits of attention
 
 ---
 
-Mini Brains Trust turns this into a simple daily habit: ten minutes a day of real, screen-free play that grows these exact human strengths, planned for you. [Join the waitlist](/) to be a founding family.
+Mini Brains Play turns this into a simple daily habit: ten minutes a day of real, screen-free play that grows these exact human strengths, planned for you. [Download it on the App Store](https://apps.apple.com/au/app/mini-brains-trust/id6803676635) and start today.

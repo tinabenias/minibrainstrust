@@ -60,7 +60,7 @@ const fullTitle = title === SITE_TITLE ? title : `${title} | ${SITE_TITLE}`;
       {
         '@type': 'Organization',
         '@id': SITE_URL + '/#org',
-        name: 'Mini Brains Trust',
+        name: 'Mini Brains Play',
         url: SITE_URL + '/',
         logo: SITE_URL + '/logo.png',
         description: SITE_DESCRIPTION,
@@ -74,14 +74,14 @@ const fullTitle = title === SITE_TITLE ? title : `${title} | ${SITE_TITLE}`;
         '@type': 'WebSite',
         '@id': SITE_URL + '/#website',
         url: SITE_URL + '/',
-        name: 'Mini Brains Trust',
+        name: 'Mini Brains Play',
         inLanguage: 'en-AU',
         publisher: { '@id': SITE_URL + '/#org' },
       },
       {
         '@type': 'MobileApplication',
         '@id': SITE_URL + '/#app',
-        name: 'Mini Brains Trust',
+        name: 'Mini Brains Play',
         applicationCategory: 'EducationalApplication',
         operatingSystem: 'iOS',
         url: SITE_URL + '/',
@@ -100,14 +100,14 @@ const fullTitle = title === SITE_TITLE ? title : `${title} | ${SITE_TITLE}`;
 </head>
 <body>
   <div class="nav">
-    <a href="/" aria-label="Mini Brains Trust home"><img class="logo" src="/logo.png" alt="Mini Brains Trust" /></a>
+    <a href="/" aria-label="Mini Brains Play home"><img class="logo" src="/logo-play.png" alt="Mini Brains Play" /></a>
     <button class="navtoggle" aria-label="Menu" aria-expanded="false" aria-controls="navmenu"><span></span><span></span><span></span></button>
     <nav class="navlinks" id="navmenu">
       <a href="/about/">About</a>
       <a href="/school-readiness/">School readiness</a>
       <a href="/pricing/">Pricing</a>
       <a href="/blog/">Blog</a>
-      <a href="/#join" class="btn sm">Join the waitlist</a>
+      <a href="https://apps.apple.com/au/app/mini-brains-trust/id6803676635" target="_blank" rel="noopener noreferrer" class="btn sm">Download</a>
     </nav>
   </div>
   <script is:inline>
@@ -128,13 +128,13 @@ const fullTitle = title === SITE_TITLE ? title : `${title} | ${SITE_TITLE}`;
   <slot />
 
   <footer>
-    <img class="logo" src="/logo.png" alt="Mini Brains Trust" />
+    <img class="logo" src="/logo-play.png" alt="Mini Brains Play" />
     <p class="footlinks">
       <a href="/">Home</a> &nbsp;·&nbsp; <a href="/about/">About</a> &nbsp;·&nbsp; <a href="/school-readiness/">School readiness</a> &nbsp;·&nbsp; <a href="/pricing/">Pricing</a> &nbsp;·&nbsp; <a href="/blog/">Blog</a> &nbsp;·&nbsp; <a href="/faq/">FAQ</a> &nbsp;·&nbsp; <a href="/contact/">Contact</a> &nbsp;·&nbsp; <a href="/privacy/">Privacy</a> &nbsp;·&nbsp; <a href="/terms/">Terms</a>
     </p>
     <p>
       Made in Australia for little humans and the grown-ups who love them.<br />
-      &copy; Mini Brains Trust. We never sell your data, and there are no ads.
+      &copy; Mini Brains Play. We never sell your data, and there are no ads.
     </p>
   </footer>
 

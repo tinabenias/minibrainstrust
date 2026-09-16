@@ -11,7 +11,7 @@ draft: false
 
 Some days you have the energy for finger painting and a craft table. Most days you have ten minutes and whatever is in the cupboard. Good news: ten minutes and what is in the cupboard is plenty. A short burst of real play does more for a small child than an hour of half-watched telly, and it costs nothing.
 
-Here are twenty activities you can start in the next minute. Each one uses things you already have, and each one quietly grows one of the human strengths that matter most.
+Here are twenty activities you can start in the next minute. Each one uses things you already have, and each one grows one of the human strengths that matter most.
 
 ## Out in the world
 
@@ -49,7 +49,7 @@ Here are twenty activities you can start in the next minute. Each one uses thing
 
 You do not need to run these perfectly. Follow their lead, hang back more than you think you should, and let the mess happen. Forget the tidy result. The point is ten minutes of your child deciding, trying, wondering and doing, in the real world, with you.
 
-If picking one each day feels like one more thing to plan, that is exactly what Mini Brains Trust does for you. A themed day, a handful of little activities, ready to go in a tap.
+If picking one each day feels like one more thing to plan, that is exactly what Mini Brains Play does for you. A themed day, a handful of little activities, ready to go in a tap.
 
 ## Keep reading
 

@@ -5,6 +5,7 @@ category: "Learning through play"
 pubDate: 2026-09-06
 coverColor: "#FFDE99"
 coverIcon: "story"
+coverImage: "/blog/reading-aloud-child.jpg"
 draft: false
 ---
 
@@ -18,7 +19,7 @@ Most parenting advice is a judgement call. Reading aloud is one of the few thing
 
 A large Australian study by economists Guyonne Kalb and Jan van Ours followed more than 4,000 children from the [Longitudinal Study of Australian Children](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2267171), tracking them from age four and five all the way to ten and eleven. They found that reading to a young child had a direct effect on their later reading and thinking skills, not just a link that vanished once you accounted for the family. In their words, the frequency of reading to children at a young age has a real causal effect on schooling outcomes, whatever the home background.
 
-The size of the effect is what stands out. Reading to a four or five year old six to seven days a week, rather than twice a week or less, had the same effect on their reading skills as being almost a full year older. Reading three to five days a week was worth about six months. Those same children went on to score higher in both reading and numeracy on their Year 3 NAPLAN tests. A bedtime story, it turns out, quietly does the work of an extra year of growing up.
+The size of the effect is what stands out. Reading to a four or five year old six to seven days a week, rather than twice a week or less, had the same effect on their reading skills as being almost a full year older. Reading three to five days a week was worth about six months. Those same children went on to score higher in both reading and numeracy on their Year 3 NAPLAN tests. A bedtime story, it turns out, does the work of an extra year of growing up.
 
 ## The million words hiding in a bedtime story
 
@@ -26,7 +27,7 @@ The other well-known finding puts a number on why this happens. American researc
 
 A child read one book a day hears around 290,000 more words by the time they turn five than a child who is not read to. A child read about five books a day hears roughly 1.4 million more. That is not a typo. Over a few years, a few minutes a night, the difference runs into the millions.
 
-Those extra words matter because books are not written the way we talk. Picture books are full of language that rarely comes up over dinner: gloomy, enormous, whispered, brave. A child soaks up those words, and the shape of sentences too, long before they can read a single one themselves. Every story is quietly stocking the shelves they will reach for later.
+Those extra words matter because books are not written the way we talk. Picture books are full of language that rarely comes up over dinner: gloomy, enormous, whispered, brave. A child soaks up those words, and the shape of sentences too, long before they can read a single one themselves. Every story is stocking the shelves they will reach for later.
 
 ## It is doing more than teaching words
 
@@ -63,7 +64,7 @@ You do not have to do any of this perfectly, or even most nights. The research r
 
 The hard part is rarely believing reading is good for them. It is having the energy to make it happen on the days that have wrung you out.
 
-That is the gap Mini Brains Trust is built for. Each day it hands you one planned, screen-free, ten-minute activity for three to five year olds, with early language and shared attention woven through the play, so the good habit is decided for you before the tired hour arrives. It is a small daily nudge toward exactly the kind of slow, hands-on, word-rich time the research keeps pointing to. You can [see how it works](/pricing/) whenever you like.
+That is the gap Mini Brains Play is built for. Each day it hands you one planned, screen-free, ten-minute activity for three to five year olds, with early language and shared attention woven through the play, so the good habit is decided for you before the tired hour arrives. It is a small daily nudge toward exactly the kind of slow, hands-on, word-rich time the research keeps pointing to. You can [see how it works](/pricing/) whenever you like.
 
 ## Questions parents ask about reading aloud
 

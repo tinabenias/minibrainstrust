@@ -35,9 +35,9 @@ The instinct, faced with numbers like these, is to get your child started early 
 
 That means protecting attention in a world designed to fragment it, feeding the curiosity that makes a child want to understand rather than just be told, and growing the discernment to ask whether something is true. These are [the human strengths a screen can't teach](/blog/human-skills-ai-cant-replace/), and they are exactly what will separate the children who use AI well from the ones who are used by it. If you want the fuller argument, [will AI take my child's job?](/blog/will-ai-take-my-childs-job/) and [the eight human skills your child needs in an AI world](/blog/eight-human-skills-your-child-needs-in-an-ai-world/) both dig in.
 
-## Where Mini Brains Trust fits
+## Where Mini Brains Play fits
 
-This is the gap we set out to fill. Mini Brains Trust is a future-ready little curriculum you run at home: one planned, screen-free activity a day for three to five year olds, each one growing the human strengths the data says will matter most. It is how you prepare a child for an AI world without handing a toddler a chatbot. You can see [how it works and what's included](/pricing/) whenever you like.
+This is the gap we set out to fill. Mini Brains Play is a future-ready little curriculum you run at home: one planned, screen-free activity a day for three to five year olds, each one growing the human strengths the data says will matter most. It is how you prepare a child for an AI world without handing a toddler a chatbot. You can see [how it works and what's included](/pricing/) whenever you like.
 
 ## Questions parents ask
 

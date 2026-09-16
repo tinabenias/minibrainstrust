@@ -19,7 +19,7 @@ Ask a teacher what they hope walks through the door on day one, and very few wil
 
 The word for most of that is self-regulation: the growing ability to manage your attention, your body and your feelings. It sounds soft, but it is anything but. It turns out to be one of the most powerful predictors of how a child fares, not just in their first year of school but for decades afterwards.
 
-## The skill that quietly predicts the most
+## The skill that predicts the most
 
 The strongest evidence here comes from one of the longest-running studies in the world. Researchers in New Zealand followed [more than a thousand children from birth into their thirties](https://www.pnas.org/doi/abs/10.1073/pnas.1010076108), measuring their self-control across early childhood and then checking in again and again as they grew up.
 
@@ -55,7 +55,7 @@ Read to them, count the stairs together, notice the letters on the cereal box. T
 
 ## Growing these skills on purpose
 
-Knowing that play builds readiness is one thing. Finding ten minutes of the right play every day, when you are already stretched, is another. That is the job we built Mini Brains Trust to do. A future-ready little curriculum you run at home, one planned, screen-free activity a day for three to five year olds, each one quietly working on the attention, patience and have-a-go spirit that school and life reward.
+Knowing that play builds readiness is one thing. Finding ten minutes of the right play every day, when you are already stretched, is another. That is the job we built Mini Brains Play to do. A future-ready little curriculum you run at home, one planned, screen-free activity a day for three to five year olds, each one working on the attention, patience and have-a-go spirit that school and life reward.
 
 If you would like a fuller guide to getting your child ready, our [school readiness page](/school-readiness/) lays out how it all fits together.
 

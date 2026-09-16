@@ -1,6 +1,6 @@
 ---
-title: "Given AI art tools, children reached for the crayons"
-description: "When researchers gave children generative AI to make art, many went back to real materials, and said they felt more connected to what they made by hand. Here is why that matters for how we raise creative kids."
+title: "Given crayons and AI art, children chose the crayons"
+description: "When researchers gave children AI art tools, many reached for real crayons instead, and felt more connected to what they made by hand. Here is why that matters."
 category: "AI & childhood"
 pubDate: 2026-08-26
 coverColor: "#FFBDE3"
@@ -9,7 +9,7 @@ coverImage: "/blog/paper-crafts.jpg"
 draft: false
 ---
 
-Here is a finding that should cheer up every parent who has ever stepped on a stray crayon. When researchers handed children generative AI tools to make pictures, a lot of the children quietly went back to the textas, the paint and the glue. Given the choice, they preferred making things with their hands, and they said the results felt more like their own.
+Here is a finding that should cheer up every parent who has ever stepped on a stray crayon. When researchers handed children generative AI tools to make pictures, a lot of the children went back to the textas, the paint and the glue. Given the choice, they preferred making things with their hands, and they said the results felt more like their own.
 
 For a screen-free brand, this is a lovely piece of evidence. It suggests that the pull towards real, tactile creativity is not something we have to force on children. Left to choose, many of them want it.
 
@@ -17,7 +17,7 @@ For a screen-free brand, this is a lovely piece of evidence. It suggests that th
 
 The finding comes from a [study by the Alan Turing Institute and the LEGO Foundation](https://www.turing.ac.uk/research/research-projects/understanding-impacts-generative-ai-use-children), which ran creative workshops with primary-aged children alongside a large survey. When the children worked with generative AI to produce images, several telling patterns showed up.
 
-Most said they felt most confident using traditional art materials, not the AI. They described feeling a stronger emotional connection to art they made by hand, and many took more pride in a picture they had physically created than in one the machine generated for them. Making art with AI also turned out to be a lonelier business: children working with real materials chatted and shared as they went, while those using AI tended to work quietly on their own.
+Most said they felt most confident using traditional art materials, not the AI. They described feeling a stronger emotional connection to art they made by hand, and many took more pride in a picture they had physically created than in one the machine generated for them. Making art with AI also turned out to be a lonelier business: children working with real materials chatted and shared as they went, while those using AI tended to work on their own.
 
 There was a harder note too. Some children, particularly children of colour, grew frustrated that the AI would not produce images that looked like them, and a few gave up on it as a result. When a tool cannot picture your child back to them, it is not much of a creative partner.
 
@@ -25,7 +25,7 @@ There was a harder note too. Some children, particularly children of colour, gre
 
 None of this is really about art class. It is about what happens in a young child when they make something themselves.
 
-When a three year old squishes playdough, tears paper, or drags a fat crayon across the page, they are not just decorating the fridge. They are building the small hand muscles that will one day hold a pencil, learning that their choices change what appears, and discovering the particular satisfaction of having made a thing exist. A finished image that arrives in a tap skips all of that. It hands over the product and quietly removes the process, and for a young child the process was the point.
+When a three year old squishes playdough, tears paper, or drags a fat crayon across the page, they are not just decorating the fridge. They are building the small hand muscles that will one day hold a pencil, learning that their choices change what appears, and discovering the particular satisfaction of having made a thing exist. A finished image that arrives in a tap skips all of that. It hands over the product and removes the process, and for a young child the process was the point.
 
 Creativity, the real kind, is one of [the human strengths a screen can't teach](/blog/human-skills-ai-cant-replace/). It grows from doing, from mess, from the gap between what you pictured and what your hands managed. That gap is not a failure. It is where a child learns to try again.
 
@@ -40,9 +40,9 @@ You do not need a craft cupboard or a plan, just real stuff and permission to ma
 
 For more of this, our [screen-free activities for 3 year olds](/blog/screen-free-activities-for-3-year-olds/) are built around exactly this kind of hands-on making, and [why play is how young children actually learn](/blog/why-play-is-how-young-children-learn/) explains the science underneath it.
 
-## Where Mini Brains Trust fits
+## Where Mini Brains Play fits
 
-We built Mini Brains Trust on this exact instinct. One planned, screen-free activity a day for three to five year olds, most of it hands-on and made from what is already in the house, designed to grow real creativity rather than replace it. The children in that study were telling us something. When we give them the choice and the materials, they reach for the real thing.
+We built Mini Brains Play on this exact instinct. One planned, screen-free activity a day for three to five year olds, most of it hands-on and made from what is already in the house, designed to grow real creativity rather than replace it. The children in that study were telling us something. When we give them the choice and the materials, they reach for the real thing.
 
 ## Questions parents ask about AI and creativity
 

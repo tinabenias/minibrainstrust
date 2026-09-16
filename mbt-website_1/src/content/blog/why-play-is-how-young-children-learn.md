@@ -52,7 +52,7 @@ A child who has spent their early years playing well is not behind. They arrive 
 
 ## Play with a little more purpose
 
-If guided play is the sweet spot, the catch is that thinking up the right activity, with the right gentle nudge, every single day, is genuinely tiring. That is the gap Mini Brains Trust fills. Each day it hands you one planned, screen-free activity for three to five year olds, chosen to build two or three of the human strengths through play, with the learning already woven in so you can just enjoy the game. It is guided play, without you having to be the one who plans it. You can see [how it works and what is included](/pricing/) whenever you like.
+If guided play is the sweet spot, the catch is that thinking up the right activity, with the right gentle nudge, every single day, is genuinely tiring. That is the gap Mini Brains Play fills. Each day it hands you one planned, screen-free activity for three to five year olds, chosen to build two or three of the human strengths through play, with the learning already woven in so you can just enjoy the game. It is guided play, without you having to be the one who plans it. You can see [how it works and what is included](/pricing/) whenever you like.
 
 ## Play and learning questions parents ask
 

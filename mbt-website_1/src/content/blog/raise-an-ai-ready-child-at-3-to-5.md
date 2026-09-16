@@ -1,6 +1,6 @@
 ---
-title: "How to raise an AI-ready child at 3 to 5 (no screen required)"
-description: "You cannot teach a preschooler to use ChatGPT, and you should not try. But you can build the foundations of AI literacy at 3 to 5, entirely screen-free. Here is what actually matters, and how to do it."
+title: "How to raise an AI-ready child at 3 to 5, screen-free"
+description: "You cannot teach a preschooler to use ChatGPT, and you should not try. Here is how to build the foundations of AI readiness at 3 to 5, entirely screen-free."
 category: "AI & childhood"
 pubDate: 2026-08-26
 coverColor: "#FFE9A8"
@@ -37,9 +37,9 @@ This is the same spirit as [raising a curious child](/blog/how-to-raise-a-curiou
 
 Because at three to five there is very little to gain and a lot of foundational development to spend. A preschooler put on AI does not come out AI-literate. They come out having missed hands-on play for something that thinks for them. The children who will handle AI best are not the ones who started youngest. They are the ones who arrived with attention, curiosity and a questioning mind already in place. There is plenty of time for the tools once the foundations are solid, which is the same logic behind [why play is how young children actually learn](/blog/why-play-is-how-young-children-learn/).
 
-## Where Mini Brains Trust fits
+## Where Mini Brains Play fits
 
-Mini Brains Trust is built to grow exactly these foundations. One planned, screen-free activity a day for three to five year olds, designed around the human strengths that underpin real AI literacy: curiosity, discernment, attention and the confidence to think for oneself. It is how you get a child ready for an AI world without a screen in sight.
+Mini Brains Play is built to grow exactly these foundations. One planned, screen-free activity a day for three to five year olds, designed around the human strengths that underpin real AI literacy: curiosity, discernment, attention and the confidence to think for oneself. It is how you get a child ready for an AI world without a screen in sight.
 
 ## Questions parents ask
 

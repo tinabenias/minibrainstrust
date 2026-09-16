@@ -1,6 +1,6 @@
 ---
 title: "Will AI take my child's job? A calm look at the future of work"
-description: "A steady, honest answer to the question every parent is quietly asking. What AI is likely to change about work, what it can't, and how to prepare a 3 to 5 year old for either."
+description: "A steady, honest answer to the question every parent is asking. What AI is likely to change about work, what it can't, and how to prepare a 3 to 5 year old for either."
 category: "AI & childhood"
 pubDate: 2026-08-13
 coverColor: "#CDDBF9"
@@ -59,4 +59,4 @@ Three to five is a natural starting point, because that is when a child forms th
 
 ---
 
-Mini Brains Trust is built around exactly this: ten minutes a day of real, screen-free play that grows the eight human strengths a child will need in an AI world, planned for you. [Join the waitlist](/) to be a founding family.
+Mini Brains Play is built around exactly this: ten minutes a day of real, screen-free play that grows the eight human strengths a child will need in an AI world, planned for you. [Download it on the App Store](https://apps.apple.com/au/app/mini-brains-trust/id6803676635) and start today.

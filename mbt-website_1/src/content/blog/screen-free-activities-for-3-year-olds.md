@@ -1,6 +1,6 @@
 ---
-title: "Screen-free activities for 3 year olds (that actually hold their attention)"
-description: "Three year olds are busy, curious and hands-on. Here are screen-free activities that actually hold a 3 year old's attention, why they work, and how to make them last longer."
+title: "Screen-free activities for 3 year olds (that actually last)"
+description: "The screen-free activities that genuinely hold a 3 year old's attention, why they work, and the trick to making them last longer than five minutes."
 category: "Play ideas"
 pubDate: 2026-08-13
 coverColor: "#FFE9A8"
@@ -22,7 +22,7 @@ A three year old can usually stay with one thing for a few minutes at a time, so
 A three year old who is climbing the walls needs their body busy before anything calm will work.
 
 - **Animal walks.** Hop like a frog, waddle like a penguin, stomp like an elephant from one end of the room to the other.
-- **Freeze dance.** Hum a tune, stop suddenly, everyone freezes. Silly, active, and quietly great for self-control.
+- **Freeze dance.** Hum a tune, stop suddenly, everyone freezes. Silly, active, and great for self-control.
 - **The cushion course.** Lay cushions across the floor as stepping stones and cross the "river" together.
 - **Fast and slow.** Move like a snail, then like a cheetah, and talk about the difference.
 
@@ -53,7 +53,7 @@ The activity matters less than how you hold it. A few small things stretch ten m
 
 ## Why this matters more than it used to
 
-Screen-free play at three is not about keeping a child busy. It grows the human strengths that a screen quietly wears away: attention, curiosity, real-world know-how and the nerve to have a go. We wrote about all [eight of those human strengths and why they matter in an AI world](/blog/eight-human-skills-your-child-needs-in-an-ai-world/) if you want the bigger picture. Curiosity in particular is worth protecting, and there is [a simple way to grow a curious child](/blog/how-to-raise-a-curious-child/) built into play like this.
+Screen-free play at three is not about keeping a child busy. It grows the human strengths that a screen wears away: attention, curiosity, real-world know-how and the nerve to have a go. We wrote about all [eight of those human strengths and why they matter in an AI world](/blog/eight-human-skills-your-child-needs-in-an-ai-world/) if you want the bigger picture. Curiosity in particular is worth protecting, and there is [a simple way to grow a curious child](/blog/how-to-raise-a-curious-child/) built into play like this.
 
 ## Frequently asked questions
 
@@ -68,4 +68,4 @@ Give the change some warning, then offer a hands-on activity to move toward rath
 
 ---
 
-Choosing the right little activity every day is the part that wears parents out. That is exactly what Mini Brains Trust does for you: ten minutes a day of real, screen-free play for three to five year olds, planned and ready in a tap. [Join the waitlist](/) to be a founding family.
+Choosing the right little activity every day is the part that wears parents out. That is exactly what Mini Brains Play does for you: ten minutes a day of real, screen-free play for three to five year olds, planned and ready in a tap. [Download it on the App Store](https://apps.apple.com/au/app/mini-brains-trust/id6803676635) and start today.

@@ -1,4 +1,4 @@
-export const SITE_TITLE = 'Mini Brains Trust';
+export const SITE_TITLE = 'Mini Brains Play';
 export const SITE_DESCRIPTION =
-  'A future-ready kindy curriculum you run at home. Ready-to-go daily play for Australian 3 to 5 year olds that grows the eight human strengths a screen can’t teach.';
+  'Hundreds of screen-free play ideas for children aged 2 to 7, sorted by time, mess, age and mood. Search, tap and go, no prep. An Australian app built around eight learning strengths and the Australian Curriculum. Free to download.';
 export const SITE_URL = 'https://minibrainstrust.com.au';

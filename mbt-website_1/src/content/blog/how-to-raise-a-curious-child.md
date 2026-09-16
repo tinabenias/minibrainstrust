@@ -1,6 +1,6 @@
 ---
 title: "How to raise a curious child (and why it matters now)"
-description: "Curiosity is the engine under lifelong learning, and it is easy to grow or quietly squash. Simple, screen-free ways to raise a curious 3 to 5 year old, and why it matters more in an AI world."
+description: "Curiosity is the engine under lifelong learning, and it is easy to grow or squash. Simple, screen-free ways to raise a curious 3 to 5 year old, and why it matters more in an AI world."
 category: "Learning through play"
 pubDate: 2026-08-13
 coverColor: "#E7F0D8"
@@ -29,7 +29,7 @@ You do not need science kits or clever apps. You need a few small habits.
 6. **Guess, then check.** "Will this float?" Let them predict, test it, and be delighted by the surprise. This is early science, and early discernment.
 7. **Leave room for boredom.** A child with nothing to do will eventually invent something, and that spark of "what if I..." is curiosity firing up. You do not have to fill every minute.
 
-## What quietly squashes curiosity
+## What squashes curiosity
 
 It helps to know the things that dampen it, often without meaning to:
 
@@ -55,4 +55,4 @@ It can. Screens are built to entertain, which can train a child to wait to be am
 
 ---
 
-Mini Brains Trust feeds that curiosity with ten minutes a day of real, screen-free play, a new theme each day, planned for you. [Join the waitlist](/) to be a founding family.
+Mini Brains Play feeds that curiosity with ten minutes a day of real, screen-free play, a new theme each day, planned for you. [Download it on the App Store](https://apps.apple.com/au/app/mini-brains-trust/id6803676635) and start today.

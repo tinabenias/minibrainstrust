@@ -27,7 +27,7 @@ Before any clever technique, there is one thing that does the heavy lifting, and
 
 The Raising Children Network puts it plainly: if you can stay calm during a tantrum, [you give your child a model of calm behaviour](https://raisingchildren.net.au/toddlers/behaviour/crying-tantrums/tantrums). The reverse is also true. If you get loud and rattled, you pour petrol on the fire, because they are reading you for cues about how big this problem really is.
 
-None of this means you have to feel calm. Most of us are quietly counting to ten with our jaw clenched. It means acting calm on the outside long enough for their storm to pass. A few things that help you hold the line:
+None of this means you have to feel calm. Most of us are counting to ten with our jaw clenched. It means acting calm on the outside long enough for their storm to pass. A few things that help you hold the line:
 
 - **Lower your voice instead of raising it.** Speak slower and quieter than feels natural. It pulls the volume of the whole moment down.
 - **Get down to their height.** Looming over a small, overwhelmed person makes it worse. Kneeling makes you safe rather than scary.
@@ -43,7 +43,7 @@ For your child, naming feelings does two jobs at once. In the moment, it helps t
 
 ## What to skip, and why
 
-A few of our instincts in the moment quietly make things harder.
+A few of our instincts in the moment make things harder.
 
 - **Reaching for a screen.** It works for ten minutes and buys nothing. A device does not teach a child anything about their feelings. It only presses pause on them, and the storm often lands later, usually at bedtime.
 - **Long explanations.** A brain in full meltdown cannot follow a reasoned case for why we share the trucks. Save the chat for afterwards, when they can actually hear you.
@@ -60,7 +60,7 @@ And it is worth the effort. A landmark study that followed around a thousand peo
 
 The trouble with all of this is that it asks the most of you at the exact moment you have the least to give. Nobody co-regulates beautifully every time. What helps is having calm on tap before the hard hour hits, rather than trying to conjure it mid-meltdown.
 
-That is part of why Mini Brains Trust exists. Each day it hands you one planned, screen-free, ten-minute activity for three to five year olds, with feelings woven in through play rather than lectures. That means games that name emotions, gentle turn-taking, and the slow hands-on kind of play that settles a busy little nervous system. It is a small daily habit that builds the skill on the good days, so there is a bit more in the tank for the bad ones. You can see [how it works](/pricing/) whenever you like.
+That is part of why Mini Brains Play exists. Each day it hands you one planned, screen-free, ten-minute activity for three to five year olds, with feelings woven in through play rather than lectures. That means games that name emotions, gentle turn-taking, and the slow hands-on kind of play that settles a busy little nervous system. It is a small daily habit that builds the skill on the good days, so there is a bit more in the tank for the bad ones. You can see [how it works](/pricing/) whenever you like.
 
 ## Big feelings questions parents ask
 
@@ -68,7 +68,7 @@ That is part of why Mini Brains Trust exists. Each day it hands you one planned,
 Because the feeling part of their brain is well ahead of the thinking part that calms it down. Strong reactions to small things are a normal sign of a still-developing brain, not bad behaviour or bad parenting. It genuinely gets easier as they mature and their language grows.
 
 **Should I ignore my child's tantrum?**
-Ignoring the child can leave them feeling alone with a feeling too big to handle. It is usually better to stay nearby, stay calm, and quietly acknowledge the feeling while holding firm on any limit. You are not rewarding the tantrum. You are helping their nervous system settle and showing them feelings are safe to have.
+Ignoring the child can leave them feeling alone with a feeling too big to handle. It is usually better to stay nearby, stay calm, and acknowledge the feeling while holding firm on any limit. You are not rewarding the tantrum. You are helping their nervous system settle and showing them feelings are safe to have.
 
 **How do I teach my child to calm down?**
 Mostly by calming down with them, over and over, until they slowly learn to do it themselves. Name the feeling, keep your own voice low and steady, and once they are settled, you can practise simple tools together in calm moments, like taking slow breaths or naming feelings in a picture book. The skill is built in the quiet times and drawn on in the loud ones.

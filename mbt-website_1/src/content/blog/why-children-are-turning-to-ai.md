@@ -42,9 +42,9 @@ The eSafety Commissioner's advice is refreshingly human: have open, honest, non-
 
 If your child, at any age, is genuinely struggling, a real person is the answer, whether that is you, your GP, or a service like Kids Helpline. A chatbot is not equipped to carry that weight, and no child should have to hand it one.
 
-## Where Mini Brains Trust fits
+## Where Mini Brains Play fits
 
-Mini Brains Trust is built around the human strengths that matter most in an AI world, and connection is one of them. Our daily activities are made to be done together, with you, because the back-and-forth of real play is where a child learns that people are the best thing going. Ten minutes a day, screen-free, growing the bond that no bot can replace.
+Mini Brains Play is built around the human strengths that matter most in an AI world, and connection is one of them. Our daily activities are made to be done together, with you, because the back-and-forth of real play is where a child learns that people are the best thing going. Ten minutes a day, screen-free, growing the bond that no bot can replace.
 
 ## Questions parents ask
 

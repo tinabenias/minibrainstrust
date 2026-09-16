@@ -1,10 +1,10 @@
 ---
 title: "Privacy Policy"
-description: "How Mini Brains Trust handles your information. We collect as little as possible and never sell your data."
+description: "How Mini Brains Play handles your information. We collect as little as possible and never sell your data."
 draft: false
 ---
 
-*Last updated: August 2026. This is a plain-English policy written to be clear. Please have it reviewed by a legal professional before you rely on it, and update the contact details and any specifics to match your final setup.*
+*Last updated: September 2026. This is a plain-English policy written to be clear. Please have it reviewed by a legal professional before you rely on it, and update the contact details and any specifics to match your final setup.*
 
 ## The short version
 
@@ -12,17 +12,15 @@ We collect as little as possible, we never sell it, and we never share it withou
 
 ## Who we are
 
-Mini Brains Trust is an Australian home-learning product for parents of young children. If you have any questions about this policy, contact us at hello@minibrainstrust.com.au.
+Mini Brains Play is an Australian home-learning product for parents of young children. If you have any questions about this policy, contact us at hello@minibrainstrust.com.au.
 
 ## What we collect
 
-Right now, before launch, the only information we collect is what you give us when you join the waitlist: your first name (optional) and your email address. That is it.
-
-When the app launches, we will collect only what is needed to run your account, and we will update this policy to explain exactly what that is before you sign up.
+When you create an account, we collect the email address you sign up with, and the first name you give for your child's profile so the app can personalise the daily play. If you take out a subscription, the payment is handled by Apple and our subscription provider, and we receive basic information about that subscription. We collect only what is needed to run your account.
 
 ## How we use it
 
-We use your email to let you know about early access, to share the occasional update about Mini Brains Trust, and for nothing else. Every email we send includes a way to unsubscribe.
+We use your email to run your account and to send you important information about the service. Only if you have opted in, we may also send the occasional update about Mini Brains Play, and every marketing email includes a way to unsubscribe.
 
 ## What we will never do
 
@@ -30,7 +28,7 @@ We will never sell, rent or trade your personal information. We will never allow
 
 ## Who can see your information
 
-Your waitlist details are stored with our website host so we can contact you. We do not share your information with anyone else except where we are legally required to.
+Your account details are stored with the trusted services we use to run Mini Brains Play, such as our hosting and subscription providers. We do not sell or share your information with anyone else except where we are legally required to.
 
 ## Cookies
 
@@ -42,8 +40,8 @@ You can ask us at any time to show you what information we hold about you, to co
 
 ## Children
 
-Mini Brains Trust is designed for parents to use with their children. Accounts are held by adults. We do not knowingly collect personal information directly from children.
+Mini Brains Play is designed for parents to use with their children. Accounts are held by adults. We do not knowingly collect personal information directly from children.
 
 ## Changes
 
-If we change this policy, we will update the date at the top and, for anything significant, let waitlist members know by email.
+If we change this policy, we will update the date at the top and, for anything significant, let account holders know by email.
