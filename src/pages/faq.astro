@@ -1,0 +1,19 @@
+---
+import Play from '../layouts/Play.astro';
+import body from '../bodies/faq.html?raw';
+---
+<Play
+  title="FAQ | Mini Brains Play"
+  description="Common questions about Mini Brains Play: ages, screens, prep, safety, privacy, pricing and availability. Screen-free play ideas for kids aged 2 to 7."
+  body={body}
+>
+  <script is:inline>
+    document.querySelectorAll('.acc-item').forEach(function(it){
+      var q=it.querySelector('.acc-q'); if(!q) return; q.style.cursor='pointer';
+      q.addEventListener('click',function(){
+        var closed=it.classList.toggle('closed');
+        var car=it.querySelector('.car'); if(car) car.textContent=closed?'▼':'▲';
+      });
+    });
+  </script>
+</Play>
