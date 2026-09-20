@@ -1,34 +1,35 @@
 ---
 title: "How do I help my child build a longer attention span?"
-description: "A short attention span is normal at 3 to 5, and concentration is a skill that grows with the right kind of play, not a fixed trait your child is stuck with. Here is what to expect, what quietly shrinks it, and how to help, backed by research."
+description: "A short attention span is normal at 3 to 5, and concentration is a skill that grows with the right kind of play. Here is what to expect, what wears it down, and how to help, backed by research."
 category: "Learning through play"
 pubDate: 2026-09-20
 coverColor: "#FFBDE3"
 coverIcon: "balance"
+coverImage: "/blog/doodah-sensory-rice-table.jpg"
 draft: false
 ---
 
-If your three, four or five year old flits from one thing to the next and cannot sit with anything for long, that is normal, and it is not fixed. At this age a short attention span is the starting point, not a problem, because the part of the brain that holds focus is still being built. The good news is that concentration is a skill, not a fixed trait, and it grows with the right kind of play and shrinks with the wrong kind of stimulation. You do not need flashcards or an app. You need to protect the slow, hands-on, uninterrupted play your child is already wired for, and get out of its way.
+If your three, four or five year old flits from one thing to the next and cannot sit with anything for long, that is completely normal at this age. The part of the brain that holds focus is still being built, so a short attention span is exactly where a preschooler is meant to start. Concentration is a skill, and it grows with the right kind of play and wears down with the wrong kind of stimulation. You do not need flashcards or an app. You need to protect the slow, hands-on, uninterrupted play your child is already wired for, and get out of its way.
 
 Here is what is realistic to expect at this age, what wears away at focus, and the simple things that build it, on the ordinary days when you have ten minutes and not much else.
 
 ## First, what is normal at 3 to 5
 
-Before you worry that your child cannot concentrate, it helps to know how little concentration is actually normal at this age. A preschooler who changes activity every few minutes, wanders off mid-game, or cannot wait their turn is not behind. They are on schedule.
+Before you worry that your child cannot concentrate, it helps to know how little concentration is actually normal at this age. A preschooler who changes activity every few minutes, wanders off mid-game, or cannot wait their turn is right on schedule for their age.
 
 The ability to focus, wait, and resist a distraction is part of what researchers call self-regulation, and it is one of the last things to mature. Australia's government-funded [Raising Children Network](https://raisingchildren.net.au/toddlers/behaviour/understanding-behaviour/self-regulation) explains that self-regulation starts in babyhood but develops most in the toddler and preschooler years, and keeps developing right into adulthood. In other words, your four year old is in the thick of building this, not failing at it.
 
-That same page makes the hopeful point plainly: children develop self-regulation through warm, responsive relationships, and by watching the adults around them. Focus is not something a child is simply born with more or less of. It is grown, mostly through everyday life with you.
+That same page makes the hopeful point plainly. Children develop self-regulation through warm, responsive relationships, and by watching the adults around them. Focus is something a child grows over time, mostly through ordinary days with you.
 
-## Attention is a skill you can build, not a trait
+## Attention is a skill you can build
 
-This is the part worth holding onto on the days it feels hopeless. A child's capacity to concentrate is not set at birth. It can be strengthened, and the evidence for that is strong.
+This is the part worth holding onto on the days it feels hopeless. A child's capacity to concentrate can be strengthened, and the evidence for that is strong.
 
 A major review in the journal [Science](https://www.science.org/doi/10.1126/science.1204529) by Adele Diamond and Kathleen Lee looked at what actually improves the thinking skills that underpin attention and self-control in children. Their conclusion was clear: these skills can be improved, through a whole range of ordinary activities rather than any single miracle method. The children who gained the most were often the ones who started with the weakest focus, which is exactly the group most parents are worried about.
 
-The other finding is one Mini Brains Play parents will like. The review noted that a play-based approach built around pretend play grew children's focus better than programmes that relied on direct instruction. You do not build a longer attention span by drilling a child at a table. You build it by giving them rich, hands-on play and letting them stay in it.
+The other finding is one Mini Brains Play parents will like. The review noted that a play-based approach built around pretend play grew children's focus better than programmes that relied on direct instruction. You build a longer attention span by giving your child rich, hands-on play and letting them stay in it, far more than by drilling them at a table.
 
-## What quietly shrinks it
+## What wears it down
 
 If attention is a muscle you can build, it is also one you can undercut, and the fastest way to do that is a certain kind of screen.
 
@@ -36,7 +37,7 @@ In a well-known experiment published in [Pediatrics](https://publications.aap.or
 
 The lead researcher, Angeline Lillard, put the likely reason simply. When characters are constantly racing from one thing to the next, and doing things that make no sense in the real world, it may [disrupt a child's ability to concentrate immediately afterward](https://www.sciencedaily.com/releases/2011/09/110912075658.htm). A brain fed a stream of eleven-second jump cuts is being trained, for those minutes, to expect the next jolt rather than to settle.
 
-This is one of the reasons screen time guidance for little ones is so cautious. The [World Health Organization](https://www.who.int/publications/i/item/9789241550536) recommends that for three and four year olds, sedentary screen time should be no more than one hour, and less is better. The point is not that screens rot the brain. It is that the hours a young child spends being held by a fast screen are hours they are not spending building their own focus from the inside.
+This is one of the reasons screen time guidance for little ones is so cautious. The [World Health Organization](https://www.who.int/publications/i/item/9789241550536) recommends that for three and four year olds, sedentary screen time should be no more than one hour, and less is better. The concern is simple. The hours a young child spends being held by a fast screen are hours they are not building their own focus from the inside.
 
 ## How play builds the muscle
 
@@ -48,7 +49,7 @@ The everyday work of growing attention is less about adding something new and mo
 - **Build stamina slowly.** If your child can stay with something for three minutes, aim for four, not forty. Sit alongside them, add a gentle "what happens if you put this one on top?", and stretch the session a little at a time.
 - **Play the waiting games.** Turn-taking and stop-start games train the brake that focus depends on. Raising Children Network suggests simple ones like [musical statues and duck, duck, goose](https://raisingchildren.net.au/toddlers/behaviour/understanding-behaviour/self-regulation), where a child has to hold still and control an impulse. So do board games, cooking together, and reading one more page.
 
-None of this is a programme. It is mostly noticing when your child is concentrating and choosing not to break the spell. The stubborn stretch of focus you see when they are lining up rocks in the garden is not them wasting time. It is them practising the very skill you are trying to grow.
+None of this is a programme. It is mostly noticing when your child is concentrating and choosing not to break the spell. The stubborn stretch of focus you see when they are lining up rocks in the garden is them practising the very skill you are trying to grow.
 
 ## A calm ten minutes, already planned
 
@@ -59,10 +60,10 @@ That is the gap Mini Brains Play is built for. Each day it hands you one planned
 ## Questions parents ask about attention span
 
 **What is a normal attention span for a 3 to 5 year old?**
-Short, and that is fine. Young children commonly stay with a self-chosen activity for only a few minutes before moving on, and their focus is easily pulled away. Concentration is still developing right through the preschool years, so frequent switching is a sign of a normal, growing brain, not a problem. What matters is the slow upward trend over months, not any single day.
+Short, and that is fine. Young children commonly stay with a self-chosen activity for only a few minutes before moving on, and their focus is easily pulled away. Concentration is still developing right through the preschool years, so frequent switching is a normal sign of a growing brain. What matters is the slow upward trend over months rather than any single day.
 
 **My child can concentrate for ages on a screen but not on anything else. Is that focus?**
-Not the kind you are trying to build. A fast screen holds a child's attention from the outside, doing the work of grabbing them so they do not have to. The focus that matters for school and life is the kind a child generates themselves, staying with a puzzle or a game because they choose to. That is built through hands-on play, not screen time, and the two can pull in opposite directions.
+It is a different kind of focus from the one you are trying to build. A fast screen holds a child's attention from the outside, doing the work of grabbing them so they do not have to. The focus that matters for school and life is the kind a child generates themselves, staying with a puzzle or a game because they choose to. That kind is built through hands-on play, and the two can pull in opposite directions.
 
 **How can I improve my child's concentration without it feeling like a lesson?**
 By protecting play rather than adding drills. Offer one activity at a time, resist interrupting when they are absorbed, follow what they are interested in, and stretch each session just a little. Turn-taking games, cooking, puzzles and reading together all build focus while feeling like fun, which is exactly why they work.
