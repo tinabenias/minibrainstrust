@@ -68,4 +68,4 @@ Give the change some warning, then offer a hands-on activity to move toward rath
 
 ---
 
-Choosing the right little activity every day is the part that wears parents out. That is exactly what Mini Brains Play does for you: ten minutes a day of real, screen-free play for three to five year olds, planned and ready in a tap. [Download it on the App Store](https://apps.apple.com/au/app/mini-brains-trust/id6803676635) and start today.
+Choosing the right little activity every day is the part that wears parents out. That is exactly what Mini Brains Play does for you: ten minutes a day of real, screen-free play for three to five year olds, planned and ready in a tap. [Download it on the App Store](https://apps.apple.com/au/app/mini-brains-play/id6803676635) and start today.

@@ -73,7 +73,7 @@ This is the cheapest and most powerful setup of all, and most of it is already i
 
 A place like Doodah is a treat, and worth it on a rainy day when the walls are closing in. You can [book a stay-and-play session](https://doodahplay.com.au/book/), have a look at the different stations on their [explore page](https://doodahplay.com.au/explore/), or follow [@doodahplay on Instagram](https://www.instagram.com/doodahplay/) for a peek inside. But the thing that made my daughter's morning was not the beautiful handmade space. It was open materials, a bit of freedom, and no one telling her what to make. All three of those are free, and they fit on your kitchen table.
 
-You do not need a craft cupboard or a plan either. Ten honest minutes of child-led play does more than an hour of anything with instructions. If you are short on ideas to start, our list of [screen-free activities you can do in ten minutes](/blog/screen-free-activities-you-can-do-in-ten-minutes/) is built for exactly that.
+You do not need a craft cupboard or a plan either. Ten unhurried minutes of child-led play does more than an hour of anything with instructions. If you are short on ideas to start, our list of [screen-free activities you can do in ten minutes](/blog/screen-free-activities-you-can-do-in-ten-minutes/) is built for exactly that.
 
 ## Frequently asked questions
 
@@ -91,4 +91,4 @@ As long as they stay interested, which is often longer than you expect once the 
 
 ---
 
-Choosing the right little bit of play every day is the part that wears parents out. That is exactly what Mini Brains Play does for you, ten minutes a day of real, screen-free, open-ended play for three to five year olds, planned and ready in a tap. [Download it on the App Store](https://apps.apple.com/au/app/mini-brains-trust/id6803676635) and start today.
+Choosing the right little bit of play every day is the part that wears parents out. That is exactly what Mini Brains Play does for you, ten minutes a day of real, screen-free, open-ended play for three to five year olds, planned and ready in a tap. [Download it on the App Store](https://apps.apple.com/au/app/mini-brains-play/id6803676635) and start today.

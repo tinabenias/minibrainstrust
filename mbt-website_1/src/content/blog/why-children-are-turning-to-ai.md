@@ -33,7 +33,7 @@ This is the quiet work of the early years. When you help a small child ride out 
 
 ## What parents can do, at every age
 
-The eSafety Commissioner's advice is refreshingly human: have open, honest, non-judgemental conversations, and help children understand what AI is and is not. For the little years, that translates into a few simple foundations:
+The eSafety Commissioner's advice is refreshingly human: have open, non-judgemental conversations, and help children understand what AI is and is not. For the little years, that translates into a few simple foundations:
 
 - **Be the safe place first.** A child who knows they can bring you anything, without a lecture, is a child who will keep coming to people.
 - **Name feelings out loud.** "You're sad that it's finished" teaches a child that feelings can be shared and handled with another person.

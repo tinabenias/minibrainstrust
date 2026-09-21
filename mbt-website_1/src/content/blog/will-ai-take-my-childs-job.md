@@ -1,6 +1,6 @@
 ---
 title: "Will AI take my child's job? A calm look at the future of work"
-description: "A steady, honest answer to the question every parent is asking. What AI is likely to change about work, what it can't, and how to prepare a 3 to 5 year old for either."
+description: "A steady, clear answer to the question every parent is asking. What AI is likely to change about work, what it can't, and how to prepare a 3 to 5 year old for either."
 category: "AI & childhood"
 pubDate: 2026-08-13
 coverColor: "#CDDBF9"
@@ -9,13 +9,13 @@ coverImage: "/blog/future-work.jpg"
 draft: false
 ---
 
-The honest answer is that AI will change most jobs and remove some, but the work that stays will lean harder on the human parts: judgement, creativity, connection and the ability to keep learning. So the best way to prepare a young child is not to guess at the right career, it is to grow the human strengths that hold their value whatever happens to the job market.
+The short answer is that AI will change most jobs and remove some, but the work that stays will lean harder on the human parts: judgement, creativity, connection and the ability to keep learning. So the best way to prepare a young child is not to guess at the right career, it is to grow the human strengths that hold their value whatever happens to the job market.
 
 If you have felt a flicker of worry about this, you are in good company. Here is a calm look at what is actually likely, and what it means for a three to five year old today.
 
 ## What AI is likely to change about work
 
-Most honest forecasters agree on the shape of it, even if the timing is uncertain. AI is very good at tasks that are predictable and pattern-based: sorting information, drafting first versions, answering common questions, crunching data. Jobs that are mostly those tasks will shrink or change a lot. Jobs will also appear that we cannot name yet, the way "app developer" or "social media manager" would have meant nothing a generation ago.
+Most forecasters agree on the shape of it, even if the timing is uncertain. AI is very good at tasks that are predictable and pattern-based: sorting information, drafting first versions, answering common questions, crunching data. Jobs that are mostly those tasks will shrink or change a lot. Jobs will also appear that we cannot name yet, the way "app developer" or "social media manager" would have meant nothing a generation ago.
 
 The useful takeaway is not a list of safe careers. It is that the value is moving away from knowing and doing routine things, and toward the things a machine cannot do well.
 
@@ -59,4 +59,4 @@ Three to five is a natural starting point, because that is when a child forms th
 
 ---
 
-Mini Brains Play is built around exactly this: ten minutes a day of real, screen-free play that grows the eight human strengths a child will need in an AI world, planned for you. [Download it on the App Store](https://apps.apple.com/au/app/mini-brains-trust/id6803676635) and start today.
+Mini Brains Play is built around exactly this: ten minutes a day of real, screen-free play that grows the eight human strengths a child will need in an AI world, planned for you. [Download it on the App Store](https://apps.apple.com/au/app/mini-brains-play/id6803676635) and start today.

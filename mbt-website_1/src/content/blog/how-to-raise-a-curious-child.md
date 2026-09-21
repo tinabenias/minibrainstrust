@@ -55,4 +55,4 @@ It can. Screens are built to entertain, which can train a child to wait to be am
 
 ---
 
-Mini Brains Play feeds that curiosity with ten minutes a day of real, screen-free play, a new theme each day, planned for you. [Download it on the App Store](https://apps.apple.com/au/app/mini-brains-trust/id6803676635) and start today.
+Mini Brains Play feeds that curiosity with ten minutes a day of real, screen-free play, a new theme each day, planned for you. [Download it on the App Store](https://apps.apple.com/au/app/mini-brains-play/id6803676635) and start today.
