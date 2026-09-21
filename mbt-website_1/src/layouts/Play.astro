@@ -50,5 +50,31 @@ const canonical = new URL(Astro.url.pathname, Astro.site).href;
 <body>
   <Fragment set:html={body} />
   <slot />
+  <script is:inline>
+    (function(){
+      function init(){
+        var wrap=document.querySelector('.nav .wrap');
+        var links=document.querySelector('.nav .navlinks');
+        if(!wrap||!links||document.querySelector('.nav-burger'))return;
+        var burger=document.createElement('button');
+        burger.className='nav-burger';burger.type='button';
+        burger.setAttribute('aria-label','Open menu');burger.setAttribute('aria-expanded','false');
+        burger.innerHTML='<span></span><span></span><span></span>';
+        var menu=document.createElement('div');menu.className='mobile-menu';
+        var frag='';
+        links.querySelectorAll('a').forEach(function(a){frag+='<a href="'+a.getAttribute('href')+'">'+a.textContent+'</a>';});
+        var dl=wrap.querySelector('a.btn');
+        if(dl){frag+='<a class="mm-dl" href="'+dl.getAttribute('href')+'">'+dl.textContent+'</a>';}
+        menu.innerHTML=frag;
+        document.body.appendChild(menu);
+        wrap.appendChild(burger);
+        function setOpen(o){menu.classList.toggle('open',o);burger.classList.toggle('open',o);burger.setAttribute('aria-expanded',o?'true':'false');document.body.classList.toggle('menu-open',o);}
+        burger.addEventListener('click',function(){setOpen(!menu.classList.contains('open'));});
+        menu.addEventListener('click',function(e){if(e.target.closest('a'))setOpen(false);});
+        window.addEventListener('resize',function(){if(window.innerWidth>900)setOpen(false);});
+      }
+      if(document.readyState!=='loading')init();else document.addEventListener('DOMContentLoaded',init);
+    })();
+  </script>
 </body>
 </html>

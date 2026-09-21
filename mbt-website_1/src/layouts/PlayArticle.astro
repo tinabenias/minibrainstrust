@@ -20,7 +20,7 @@ const canonical = new URL(Astro.url.pathname, Astro.site).href;
 const APP = 'https://apps.apple.com/au/app/mini-brains-play/id6803676635';
 const BRAND = `<a class="brand" href="/" aria-label="Mini Brains Play"><img src="/logo-play.png" alt="Mini Brains Play" style="height:42px;display:block"></a>`;
 const NAV = `<nav class="nav"><div class="wrap">${BRAND}<div class="navlinks"><a href="/about/">About</a><a href="/school-readiness/">School readiness</a><a href="/pricing/">Pricing</a><a href="/blog/">Blog</a></div><a class="btn btn-pink btn-sm" href="${APP}">Download</a></div></nav>`;
-const FOOT = `<footer><div class="wrap"><div class="foot-grid"><div style="max-width:280px">${BRAND}<p style="margin-top:10px;color:#cfe3c7">Screen-free play ideas for you and your Mini. Made in Australia.</p></div><div class="foot-col"><b>Explore</b><a href="/about/">About</a><a href="/school-readiness/">School readiness</a><a href="/pricing/">Pricing</a><a href="/faq/">FAQ</a></div><div class="foot-col"><b>Mini Brains</b><a href="/blog/">Blog</a><a href="/contact/">Contact</a><a href="/privacy/">Privacy</a><a href="/terms/">Terms</a></div><div class="foot-col"><b>Get it</b><a href="${APP}">Download on iOS</a><a href="https://www.instagram.com/minibrainstrust/">Instagram</a></div></div><div class="foot-btm"><span>© 2026 Mini Brains Play</span><span>Privacy · Terms · Made with care in Australia</span></div></div></footer>`;
+const FOOT = `<footer><div class="wrap"><div class="foot-grid"><div style="max-width:280px">${BRAND}<p style="margin-top:10px;color:#cfe3c7">Screen-free play ideas for you and your Mini. Made in Australia.</p></div><div class="foot-col"><b>Explore</b><a href="/about/">About</a><a href="/school-readiness/">School readiness</a><a href="/pricing/">Pricing</a><a href="/faq/">FAQ</a></div><div class="foot-col"><b>Mini Brains</b><a href="/blog/">Blog</a><a href="/contact/">Contact</a><a href="/privacy/">Privacy</a><a href="/terms/">Terms</a></div><div class="foot-col"><b>Get it</b><a href="${APP}">Download on iOS</a><a href="https://www.instagram.com/minibrainsplay/">Instagram</a></div></div><div class="foot-btm"><span>© 2026 Mini Brains Play</span><span>Privacy · Terms · Made with care in Australia</span></div></div></footer>`;
 const ART_CSS = `
 .art-wrap{max-width:760px;margin:0 auto;padding:0 20px}
 .art-hero{text-align:center;padding:52px 0 8px}
@@ -97,5 +97,31 @@ const ART_CSS = `
     </div>
   </main>
   <Fragment set:html={FOOT} />
+  <script is:inline>
+    (function(){
+      function init(){
+        var wrap=document.querySelector('.nav .wrap');
+        var links=document.querySelector('.nav .navlinks');
+        if(!wrap||!links||document.querySelector('.nav-burger'))return;
+        var burger=document.createElement('button');
+        burger.className='nav-burger';burger.type='button';
+        burger.setAttribute('aria-label','Open menu');burger.setAttribute('aria-expanded','false');
+        burger.innerHTML='<span></span><span></span><span></span>';
+        var menu=document.createElement('div');menu.className='mobile-menu';
+        var frag='';
+        links.querySelectorAll('a').forEach(function(a){frag+='<a href="'+a.getAttribute('href')+'">'+a.textContent+'</a>';});
+        var dl=wrap.querySelector('a.btn');
+        if(dl){frag+='<a class="mm-dl" href="'+dl.getAttribute('href')+'">'+dl.textContent+'</a>';}
+        menu.innerHTML=frag;
+        document.body.appendChild(menu);
+        wrap.appendChild(burger);
+        function setOpen(o){menu.classList.toggle('open',o);burger.classList.toggle('open',o);burger.setAttribute('aria-expanded',o?'true':'false');document.body.classList.toggle('menu-open',o);}
+        burger.addEventListener('click',function(){setOpen(!menu.classList.contains('open'));});
+        menu.addEventListener('click',function(e){if(e.target.closest('a'))setOpen(false);});
+        window.addEventListener('resize',function(){if(window.innerWidth>900)setOpen(false);});
+      }
+      if(document.readyState!=='loading')init();else document.addEventListener('DOMContentLoaded',init);
+    })();
+  </script>
 </body>
 </html>
