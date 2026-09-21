@@ -100,8 +100,8 @@ section{position:relative}
 .center{text-align:center}
 .kick{font-family:var(--disp);font-weight:600;font-size:14px;letter-spacing:.13em;text-transform:uppercase;color:var(--pink);margin-bottom:12px}
 .h-lg{font-size:44px} .h-md{font-size:34px}
-.torn{line-height:0;width:100%}
-.torn svg{display:block}
+.torn{line-height:0;width:100%;font-size:0}
+.torn svg{display:block;width:100%;height:auto;margin:-1px 0}
 
 /* intro band (pale cream) */
 .intro{background:var(--cream);text-align:center;padding:74px 0 58px}
