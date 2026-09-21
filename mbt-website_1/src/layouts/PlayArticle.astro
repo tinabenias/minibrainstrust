@@ -17,7 +17,7 @@ interface Props {
 }
 const { title, description, category, dateStr, coverImage, schema } = Astro.props;
 const canonical = new URL(Astro.url.pathname, Astro.site).href;
-const APP = 'https://apps.apple.com/au/app/mini-brains-trust/id6803676635';
+const APP = 'https://apps.apple.com/au/app/mini-brains-play/id6803676635';
 const BRAND = `<a class="brand" href="/" aria-label="Mini Brains Play"><img src="/logo-play.png" alt="Mini Brains Play" style="height:42px;display:block"></a>`;
 const NAV = `<nav class="nav"><div class="wrap">${BRAND}<div class="navlinks"><a href="/about/">About</a><a href="/school-readiness/">School readiness</a><a href="/pricing/">Pricing</a><a href="/blog/">Blog</a></div><a class="btn btn-pink btn-sm" href="${APP}">Download</a></div></nav>`;
 const FOOT = `<footer><div class="wrap"><div class="foot-grid"><div style="max-width:280px">${BRAND}<p style="margin-top:10px;color:#cfe3c7">Screen-free play ideas for you and your Mini. Made in Australia.</p></div><div class="foot-col"><b>Explore</b><a href="/about/">About</a><a href="/school-readiness/">School readiness</a><a href="/pricing/">Pricing</a><a href="/faq/">FAQ</a></div><div class="foot-col"><b>Mini Brains</b><a href="/blog/">Blog</a><a href="/contact/">Contact</a><a href="/privacy/">Privacy</a><a href="/terms/">Terms</a></div><div class="foot-col"><b>Get it</b><a href="${APP}">Download on iOS</a><a href="https://www.instagram.com/minibrainstrust/">Instagram</a></div></div><div class="foot-btm"><span>© 2026 Mini Brains Play</span><span>Privacy · Terms · Made with care in Australia</span></div></div></footer>`;
