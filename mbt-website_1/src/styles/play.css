@@ -361,3 +361,27 @@ footer a:hover{color:#fff}
 .bl-card p{font-size:14px;color:#4a4550;line-height:1.55;flex:1}
 @media(max-width:900px){.bl-grid{grid-template-columns:repeat(2,1fr)}.bl-feat{grid-template-columns:1fr}}
 @media(max-width:600px){.bl-grid{grid-template-columns:1fr}}
+
+/* ===== mobile nav (hamburger) ===== */
+.nav-burger{display:none;flex-direction:column;justify-content:center;gap:5px;width:46px;height:46px;padding:11px;margin:-4px;border:none;background:transparent;cursor:pointer;border-radius:12px}
+.nav-burger span{display:block;height:3px;width:100%;background:var(--forest);border-radius:3px;transition:transform .22s ease,opacity .22s ease}
+.nav-burger.open span:nth-child(1){transform:translateY(8px) rotate(45deg)}
+.nav-burger.open span:nth-child(2){opacity:0}
+.nav-burger.open span:nth-child(3){transform:translateY(-8px) rotate(-45deg)}
+.mobile-menu{display:none;position:fixed;left:0;right:0;top:74px;z-index:39;background:rgba(247,251,231,.98);backdrop-filter:blur(10px);border-bottom:1px solid rgba(38,92,59,.1);flex-direction:column;padding:8px 20px 22px;box-shadow:0 16px 32px rgba(30,60,25,.14)}
+.mobile-menu.open{display:flex}
+.mobile-menu a{font-family:var(--disp);font-weight:600;font-size:18px;color:var(--forest);padding:15px 4px;border-bottom:1px solid rgba(38,92,59,.08)}
+.mobile-menu a:hover{color:var(--pink)}
+.mobile-menu .mm-dl{margin-top:16px;background:var(--pink);color:#fff;text-align:center;border-radius:999px;box-shadow:0 5px 0 var(--pink-d);border-bottom:none;padding:15px}
+body.menu-open{overflow:hidden}
+@media(min-width:901px){.mobile-menu{display:none!important}}
+@media(max-width:900px){
+  .nav-burger{display:flex}
+  .nav .wrap>a.btn{display:none}      /* Download moves into the menu on mobile */
+  /* centre hero text once the two columns stack */
+  .hero-grid>div:first-child{text-align:center}
+  .hero .lead{margin-left:auto;margin-right:auto}
+  .hero .cta{justify-content:center}
+  .hero .rating{justify-content:center}
+}
+@media(max-width:600px){.mobile-menu{top:62px}}
