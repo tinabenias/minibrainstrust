@@ -5,6 +5,7 @@ category: "Learning through play"
 pubDate: 2026-09-27
 coverColor: "#E7F0D8"
 coverIcon: "shapes"
+coverImage: "/blog/doodah-craft-table-pencils.jpg"
 draft: false
 ---
 
