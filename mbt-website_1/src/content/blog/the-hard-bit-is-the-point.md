@@ -5,7 +5,7 @@ category: "Learning through play"
 pubDate: 2026-10-01
 coverColor: "#FFDE99"
 coverIcon: "balance"
-coverImage: "/blog/block-reach.jpg"
+coverImage: "/blog/doodah-easel-wall-painting.jpg"
 draft: false
 ---
 
