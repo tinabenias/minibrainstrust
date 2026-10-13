@@ -62,6 +62,15 @@ const ART_CSS = `
     gtag('config', 'G-1C17V2GM8Z');
     gtag('config', 'G-JD6S3TQGPV');
   </script>
+  <!-- Meta Pixel -->
+  <script is:inline>
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init','1257478576562416');
+    fbq('track','PageView');
+    document.addEventListener('click',function(e){var a=e.target.closest&&e.target.closest('a[href*="apps.apple.com"]');if(a&&window.fbq){fbq('trackCustom','DownloadClick',{source:'website',path:location.pathname});}},true);
+  </script>
+  <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1257478576562416&ev=PageView&noscript=1" alt="" /></noscript>
+  <!-- End Meta Pixel -->
   <title>{title} | Mini Brains Play</title>
   <meta name="description" content={description} />
   <link rel="canonical" href={canonical} />
