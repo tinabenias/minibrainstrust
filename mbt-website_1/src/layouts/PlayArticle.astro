@@ -9,13 +9,17 @@ import '@fontsource/quicksand/700.css';
 import css from '../styles/play.css?raw';
 interface Props {
   title: string;
+  seoTitle?: string;
   description: string;
   category: string;
   dateStr: string;
   coverImage?: string;
   schema?: string;
 }
-const { title, description, category, dateStr, coverImage, schema } = Astro.props;
+const { title, seoTitle, description, category, dateStr, coverImage, schema } = Astro.props;
+// Keep the <title> tag at 60 characters or less: add the brand suffix only when it fits.
+const baseTitle = seoTitle ?? title;
+const titleTag = baseTitle.length + 19 <= 60 ? `${baseTitle} | Mini Brains Play` : baseTitle;
 const canonical = new URL(Astro.url.pathname, Astro.site).href;
 const APP = 'https://apps.apple.com/au/app/mini-brains-play/id6803676635';
 const BRAND = `<a class="brand" href="/" aria-label="Mini Brains Play"><img src="/logo-play.png" alt="Mini Brains Play" style="height:42px;display:block"></a>`;
@@ -71,7 +75,7 @@ const ART_CSS = `
   </script>
   <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1257478576562416&ev=PageView&noscript=1" alt="" /></noscript>
   <!-- End Meta Pixel -->
-  <title>{title} | Mini Brains Play</title>
+  <title>{titleTag}</title>
   <meta name="description" content={description} />
   <link rel="canonical" href={canonical} />
   <meta name="robots" content="index, follow" />
