@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://minibrainstrust.com.au/sitemap-index.xml
+Sitemap: https://minibrainsplay.com.au/sitemap-index.xml

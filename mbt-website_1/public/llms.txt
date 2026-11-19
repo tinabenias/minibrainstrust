@@ -1,39 +1,41 @@
-# Mini Brains Trust
+# Mini Brains Play
 
-> An Australian screen-free daily-play app and at-home kindy curriculum for 3 to 5 year olds. One planned, ten-minute, screen-free activity a day that grows the human skills a screen can't teach. Built by an Australian family. No ads, no data harvesting.
+> An Australian iOS app of hundreds of screen-free play ideas for children aged 2 to 7, sorted by time, mess, age and mood. The app is for the parent; the child plays in the real world. Built around eight learning strengths and the Australian Curriculum by an Australian mum. Free to download, no ads.
 
 ## Key pages
-- [Home](https://minibrainstrust.com.au/): what Mini Brains Trust is and how it works
-- [About](https://minibrainstrust.com.au/about/): the Australian family behind it
-- [School readiness](https://minibrainstrust.com.au/school-readiness/): getting 3 to 5 year olds ready for kindy
-- [Pricing](https://minibrainstrust.com.au/pricing/): plans and what's included
-- [FAQ](https://minibrainstrust.com.au/faq/): common questions from parents
+- [Home](https://minibrainsplay.com.au/): what Mini Brains Play is and how it works
+- [About](https://minibrainsplay.com.au/about/): the Australian family behind it
+- [School readiness](https://minibrainsplay.com.au/school-readiness/): getting your child ready for their first year of school
+- [Pricing](https://minibrainsplay.com.au/pricing/): plans and what's included
+- [FAQ](https://minibrainsplay.com.au/faq/): common questions from parents
 
 ## Guides
-- [How much screen time is OK for a 3 to 5 year old?](https://minibrainstrust.com.au/blog/how-much-screen-time-for-3-to-5-year-olds/)
-- [Is my child ready for school? The skills that matter most](https://minibrainstrust.com.au/blog/is-my-child-ready-for-school/)
-- [Why play is how young children actually learn](https://minibrainstrust.com.au/blog/why-play-is-how-young-children-learn/)
-- [Will AI make my child a lazy thinker? What 'cognitive debt' means](https://minibrainstrust.com.au/blog/will-ai-make-my-child-a-lazy-thinker/)
-- [Given AI art tools, children reached for the crayons](https://minibrainstrust.com.au/blog/children-chose-crayons-over-ai/)
-- [Why children are turning to AI, and what eSafety wants parents to know](https://minibrainstrust.com.au/blog/why-children-are-turning-to-ai/)
-- [Your child is growing up with AI: what the numbers say](https://minibrainstrust.com.au/blog/your-child-is-growing-up-with-ai/)
-- [How to raise an AI-ready child at 3 to 5 (no screen required)](https://minibrainstrust.com.au/blog/raise-an-ai-ready-child-at-3-to-5/)
-- [Screen-free activities for 3 year olds](https://minibrainstrust.com.au/blog/screen-free-activities-for-3-year-olds/)
-- [Screen-free activities for 4 year olds](https://minibrainstrust.com.au/blog/screen-free-activities-for-4-year-olds/)
-- [Screen-free activities for 5 year olds](https://minibrainstrust.com.au/blog/screen-free-activities-for-5-year-olds/)
-- [Screen-free activities you can do in ten minutes](https://minibrainstrust.com.au/blog/screen-free-activities-you-can-do-in-ten-minutes/)
-- [Beating the witching hour](https://minibrainstrust.com.au/blog/beating-the-witching-hour/)
-- [The human skills AI can't replace](https://minibrainstrust.com.au/blog/human-skills-ai-cant-replace/)
-- [Eight human skills your child needs in an AI world](https://minibrainstrust.com.au/blog/eight-human-skills-your-child-needs-in-an-ai-world/)
-- [How to raise a curious child](https://minibrainstrust.com.au/blog/how-to-raise-a-curious-child/)
-- [Will AI take my child's job?](https://minibrainstrust.com.au/blog/will-ai-take-my-childs-job/)
-- [How do I help my child with big feelings?](https://minibrainstrust.com.au/blog/helping-your-child-with-big-feelings/)
-- [Does reading aloud to my child really make a difference?](https://minibrainstrust.com.au/blog/does-reading-aloud-make-a-difference/)
-- [Why is outdoor play so important for young children?](https://minibrainstrust.com.au/blog/why-outdoor-play-is-important-for-young-children/)
-- [How do I help my child build a longer attention span?](https://minibrainstrust.com.au/blog/build-your-childs-attention-span/)
-- [How do I build my child's fine motor skills?](https://minibrainstrust.com.au/blog/build-your-childs-fine-motor-skills/)
-- [Is boredom good for my child?](https://minibrainstrust.com.au/blog/is-boredom-good-for-my-child/)
-- [Is pretend play good for my child?](https://minibrainstrust.com.au/blog/is-pretend-play-good-for-my-child/)
-- [Should I tell my child they're clever? Praise effort, not the trait](https://minibrainstrust.com.au/blog/should-i-tell-my-child-theyre-clever/)
-- [How do I get my kids to play together?](https://minibrainstrust.com.au/blog/how-to-get-your-kids-to-play-together/)
-- [Why does my child fall apart when they're tired?](https://minibrainstrust.com.au/blog/why-does-my-child-fall-apart-when-tired/)
+- [How much screen time is OK for a 3 to 5 year old?](https://minibrainsplay.com.au/blog/how-much-screen-time-for-3-to-5-year-olds/)
+- [Is my child ready for school? The skills that matter most](https://minibrainsplay.com.au/blog/is-my-child-ready-for-school/)
+- [Why play is how young children actually learn](https://minibrainsplay.com.au/blog/why-play-is-how-young-children-learn/)
+- [Will AI make my child a lazy thinker? What 'cognitive debt' means](https://minibrainsplay.com.au/blog/will-ai-make-my-child-a-lazy-thinker/)
+- [Given AI art tools, children reached for the crayons](https://minibrainsplay.com.au/blog/children-chose-crayons-over-ai/)
+- [Why children are turning to AI, and what eSafety wants parents to know](https://minibrainsplay.com.au/blog/why-children-are-turning-to-ai/)
+- [Your child is growing up with AI: what the numbers say](https://minibrainsplay.com.au/blog/your-child-is-growing-up-with-ai/)
+- [How to raise an AI-ready child at 3 to 5 (no screen required)](https://minibrainsplay.com.au/blog/raise-an-ai-ready-child-at-3-to-5/)
+- [Screen-free activities for 3 year olds](https://minibrainsplay.com.au/blog/screen-free-activities-for-3-year-olds/)
+- [Screen-free activities for 4 year olds](https://minibrainsplay.com.au/blog/screen-free-activities-for-4-year-olds/)
+- [Screen-free activities for 5 year olds](https://minibrainsplay.com.au/blog/screen-free-activities-for-5-year-olds/)
+- [Screen-free activities you can do in ten minutes](https://minibrainsplay.com.au/blog/screen-free-activities-you-can-do-in-ten-minutes/)
+- [Beating the witching hour](https://minibrainsplay.com.au/blog/beating-the-witching-hour/)
+- [The human skills AI can't replace](https://minibrainsplay.com.au/blog/human-skills-ai-cant-replace/)
+- [Eight human skills your child needs in an AI world](https://minibrainsplay.com.au/blog/eight-human-skills-your-child-needs-in-an-ai-world/)
+- [How to raise a curious child](https://minibrainsplay.com.au/blog/how-to-raise-a-curious-child/)
+- [Will AI take my child's job?](https://minibrainsplay.com.au/blog/will-ai-take-my-childs-job/)
+- [How do I help my child with big feelings?](https://minibrainsplay.com.au/blog/helping-your-child-with-big-feelings/)
+- [Does reading aloud to my child really make a difference?](https://minibrainsplay.com.au/blog/does-reading-aloud-make-a-difference/)
+- [Why is outdoor play so important for young children?](https://minibrainsplay.com.au/blog/why-outdoor-play-is-important-for-young-children/)
+- [How do I help my child build a longer attention span?](https://minibrainsplay.com.au/blog/build-your-childs-attention-span/)
+- [How do I build my child's fine motor skills?](https://minibrainsplay.com.au/blog/build-your-childs-fine-motor-skills/)
+- [Is boredom good for my child?](https://minibrainsplay.com.au/blog/is-boredom-good-for-my-child/)
+- [Is pretend play good for my child?](https://minibrainsplay.com.au/blog/is-pretend-play-good-for-my-child/)
+- [Should I tell my child they're clever? Praise effort, not the trait](https://minibrainsplay.com.au/blog/should-i-tell-my-child-theyre-clever/)
+- [How do I get my kids to play together?](https://minibrainsplay.com.au/blog/how-to-get-your-kids-to-play-together/)
+- [Why does my child fall apart when they're tired?](https://minibrainsplay.com.au/blog/why-does-my-child-fall-apart-when-tired/)
+- [What open-ended play does for your child](https://minibrainsplay.com.au/blog/what-open-ended-play-does-for-your-child/)
+- [The hard bit is the point](https://minibrainsplay.com.au/blog/the-hard-bit-is-the-point/)
