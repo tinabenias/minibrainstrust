@@ -1,6 +1,6 @@
 ---
 title: "Why does my child fall apart when they're tired?"
-description: "An overtired 3 to 5 year old is not being naughty. Their brain has simply run out of the brakes that hold feelings in check. Here is the research on sleep and behaviour, how much sleep they need, and how to get calmer days without a screen."
+description: "An overtired 3 to 5 year old isn't being naughty. Their brain has run out of brakes. The research on sleep and behaviour, and how much sleep they need."
 category: "The hard hours"
 pubDate: 2026-11-15
 coverColor: "#CDDBF9"

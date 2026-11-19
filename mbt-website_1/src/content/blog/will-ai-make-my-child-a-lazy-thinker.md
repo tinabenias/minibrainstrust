@@ -1,6 +1,7 @@
 ---
 title: "Will AI make my child a lazy thinker? What 'cognitive debt' means"
-description: "New brain research suggests that leaning on AI to do our thinking has a real cost, and it has a name: cognitive debt. Here is what it means for children, and why the early years are the best defence."
+seoTitle: "Will AI make my child a lazy thinker? On cognitive debt"
+description: "New brain research suggests leaning on AI to think has a cost, called cognitive debt. What it means for children, and why the early years matter most."
 category: "AI & childhood"
 pubDate: 2026-08-26
 coverColor: "#CDDBF9"

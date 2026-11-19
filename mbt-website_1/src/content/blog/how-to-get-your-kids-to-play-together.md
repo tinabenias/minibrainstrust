@@ -1,6 +1,6 @@
 ---
 title: "How do I get my kids to play together?"
-description: "Siblings who bicker all day are not failing to get along, they are practising a skill. Here is how to help your 3 to 5 year olds really play together, backed by research, without refereeing every minute or handing over a screen."
+description: "Siblings who bicker are practising a skill. How to help your 3 to 5 year olds play together without refereeing every minute or reaching for a screen."
 category: "The hard hours"
 pubDate: 2026-11-08
 coverColor: "#FFBDE3"

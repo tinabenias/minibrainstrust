@@ -1,6 +1,7 @@
 ---
 title: "Screen-free activities for 5 year olds (the year before school)"
-description: "The screen-free activities that suit a five year old, from cooperative pretend play and games with real rules to early writing and bigger physical challenges, and why each one is worth your ten minutes."
+seoTitle: "Screen-free activities for 5 year olds before school"
+description: "Screen-free activities for five year olds, from cooperative pretend play and games with real rules to early writing and bigger physical challenges."
 category: "Play ideas"
 pubDate: 2026-11-02
 coverColor: "#E7F0D8"

@@ -1,6 +1,6 @@
 ---
 title: "Is my child ready for school? The skills that matter most"
-description: "School readiness is less about knowing letters and numbers early, and more about whether a child can focus, wait, manage a big feeling and have a go. Here is what the long-run research says, and how to grow it through play."
+description: "School readiness is less about early letters and numbers than focusing, waiting, managing big feelings and having a go. How to grow it through play."
 category: "School readiness"
 pubDate: 2026-08-25
 coverColor: "#E7F0D8"
@@ -49,7 +49,7 @@ If you want the fuller picture of why these skills matter more than ever, our pi
 
 ## The one trap to avoid
 
-If there is a mistake to sidestep, it is turning the year before school into a cramming exercise. Drilling letters and numbers under pressure can leave a child anxious about learning before they have even started, and it buys very little that ordinary playful exposure would not have delivered anyway.
+If there is a mistake to sidestep, it is turning the year before school into a cramming exercise. Drilling letters and numbers under pressure can leave a child anxious about learning before they have even started, and it buys very little that ordinary playful exposure would not have delivered anyway. For a five year old, a better use of that year is play with a bit more stretch in it, and our list of [screen-free activities for 5 year olds](/blog/screen-free-activities-for-5-year-olds/) is a good place to start.
 
 Read to them, count the stairs together, notice the letters on the cereal box. Then let it go and let them play. Play is not the break from getting ready for school. For a young child, play is how getting ready for school happens.
 

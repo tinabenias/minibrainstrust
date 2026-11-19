@@ -1,6 +1,6 @@
 ---
 title: "20 screen-free activities you can do in ten minutes flat"
-description: "No printing, no special kit, no big commitment. Twenty little bursts of real-world play for 3 to 5 year olds, using what is already in your house or backyard."
+description: "No printing, no special kit. Twenty quick bursts of real-world play for 3 to 5 year olds, using what's already in your house or backyard."
 category: "Play ideas"
 pubDate: 2026-08-04
 coverColor: "#FFBDE3"

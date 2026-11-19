@@ -1,6 +1,7 @@
 ---
 title: "What open-ended play does for your child (and how to do it at home)"
-description: "A creative play studio in Adelaide showed me why open-ended, child-led play works so well for little kids, and how to set up the same thing at home for next to nothing."
+seoTitle: "What open-ended play does for your child, and how to start"
+description: "A creative play studio in Adelaide showed me why open-ended, child-led play works so well, and how to set up the same thing at home for next to nothing."
 category: "Learning through play"
 pubDate: 2026-09-07
 coverColor: "#FFE9A8"

@@ -1,6 +1,6 @@
 ---
 title: "How to raise an AI-ready child at 3 to 5, screen-free"
-description: "You cannot teach a preschooler to use ChatGPT, and you should not try. Here is how to build the foundations of AI readiness at 3 to 5, entirely screen-free."
+description: "You can't teach a preschooler to use ChatGPT, and you shouldn't try. How to build the foundations of AI readiness at 3 to 5, entirely screen-free."
 category: "AI & childhood"
 pubDate: 2026-08-26
 coverColor: "#FFE9A8"

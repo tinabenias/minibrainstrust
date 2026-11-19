@@ -1,6 +1,7 @@
 ---
 title: "Screen-free activities for 4 year olds (that hold their attention)"
-description: "The screen-free activities that suit where a four year old is up to, from bigger pretend play to simple rules games, and why each one is worth your ten minutes."
+seoTitle: "Screen-free activities for 4 year olds that hold attention"
+description: "Screen-free activities that suit where a four year old is up to, from bigger pretend play to simple rules games, and why each is worth ten minutes."
 category: "Play ideas"
 pubDate: 2026-10-25
 coverColor: "#FFBDE3"

@@ -1,6 +1,7 @@
 ---
 title: "Will AI take my child's job? A calm look at the future of work"
-description: "A steady, clear answer to the question every parent is asking. What AI is likely to change about work, what it can't, and how to prepare a 3 to 5 year old for either."
+seoTitle: "Will AI take my child's job? A calm look at future work"
+description: "A calm answer to the question every parent is asking. What AI is likely to change about work, what it can't, and how to prepare a 3 to 5 year old."
 category: "AI & childhood"
 pubDate: 2026-08-13
 coverColor: "#CDDBF9"

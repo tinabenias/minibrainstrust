@@ -1,6 +1,7 @@
 ---
 title: "Why children are turning to AI, and what eSafety wants parents to know"
-description: "Australia's eSafety Commissioner found that most kids aged 10 to 17 have used AI, many for advice and company. Here is what that means, and why the human skill of connection is built long before the teens."
+seoTitle: "Why children are turning to AI, and what eSafety found"
+description: "Australia's eSafety Commissioner found most kids aged 10 to 17 have used AI, many for advice and company. Why the skill of connection starts much earlier."
 category: "AI & childhood"
 pubDate: 2026-08-26
 coverColor: "#FFDE99"

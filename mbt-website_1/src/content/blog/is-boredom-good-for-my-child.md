@@ -1,6 +1,6 @@
 ---
 title: "Is boredom good for my child?"
-description: "Yes. A bit of boredom pushes a young child to invent, solve and rely on themselves, which is where imagination and problem-solving grow. Here is what the research says, and how to let boredom do its work instead of reaching for a screen."
+description: "Yes. A bit of boredom pushes young children to invent, solve problems and rely on themselves. What the research says, and how to let boredom do its work."
 category: "Learning through play"
 pubDate: 2026-10-05
 coverColor: "#CDDBF9"

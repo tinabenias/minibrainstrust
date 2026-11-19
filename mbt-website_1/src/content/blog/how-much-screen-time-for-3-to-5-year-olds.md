@@ -1,6 +1,7 @@
 ---
 title: "How much screen time is OK for a 3 to 5 year old? What the research says"
-description: "Health guidelines say no more than one hour of screen time a day for a 3 to 5 year old, and less is better. Here is what the research actually found, and what to do with the hours you free up."
+seoTitle: "How much screen time is OK for a 3 to 5 year old?"
+description: "Health guidelines say no more than an hour of screen time a day for 3 to 5 year olds. What the research found, and what to do with the time you free up."
 category: "Screens & real life"
 pubDate: 2026-08-26
 coverColor: "#CDDBF9"

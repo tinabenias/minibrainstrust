@@ -1,6 +1,7 @@
 ---
 title: "The human skills AI can't replace (and how to grow them early)"
-description: "As AI gets better at the knowing and the doing, a handful of human skills only become more valuable. Here they are, and simple ways to grow them in a 3 to 5 year old."
+seoTitle: "Human skills AI can't replace, and how to grow them early"
+description: "As AI gets better at knowing and doing, a handful of human skills only grow in value. Simple ways to start building them in a 3 to 5 year old."
 category: "AI & childhood"
 pubDate: 2026-08-13
 coverColor: "#FFBDE3"
@@ -9,7 +10,7 @@ coverImage: "/blog/making-things.jpg"
 draft: false
 ---
 
-The human skills AI can't easily replace are the ones that need a body, a heart and lived experience: creativity, judgement, connection, curiosity, initiative and the grit to stick at something hard. As machines get better at recalling facts and drafting answers, these become the parts that set a person apart, and they are best grown in early childhood through play.
+The human skills AI can't easily replace are the ones that need a body, a heart and lived experience: creativity, judgement, connection, curiosity, initiative and the grit to stick at something hard. As machines get better at recalling facts and drafting answers, these become the parts that set a person apart, and they are best grown in early childhood through play. Connection may matter most of all, given how many older kids already [turn to AI for advice and company](/blog/why-children-are-turning-to-ai/).
 
 Here is a closer look at the ones that hold their value, and how you can start growing each in a three to five year old without any special kit.
 

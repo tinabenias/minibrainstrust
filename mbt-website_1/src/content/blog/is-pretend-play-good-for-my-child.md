@@ -1,6 +1,6 @@
 ---
 title: "Is pretend play good for my child?"
-description: "Yes. Pretend play is how three to five year olds grow their language, work out other people and practise self-control. Here is what the research actually shows, and how to make room for it."
+description: "Yes. Pretend play is how 3 to 5 year olds grow language, understand other people and practise self-control. What the research shows, and how to make room."
 category: "Learning through play"
 pubDate: 2026-10-11
 coverColor: "#FFBDE3"

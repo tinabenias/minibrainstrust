@@ -1,6 +1,6 @@
 ---
 title: "Does reading aloud to my child really make a difference?"
-description: "Yes, and the research is unusually strong. Reading aloud to your 3 to 5 year old builds language, attention and school skills, even a few minutes a day. Here is what the studies show and how to get more out of one book."
+description: "Yes, and the research is unusually strong. A few minutes of reading aloud a day builds language, attention and school skills in 3 to 5 year olds."
 category: "Learning through play"
 pubDate: 2026-09-06
 coverColor: "#FFDE99"

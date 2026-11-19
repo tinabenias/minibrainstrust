@@ -46,7 +46,7 @@ We can't stop our kids growing up with AI. But we can raise them to be the human
 ## Questions parents ask about struggle and learning
 
 **Should I let my toddler get frustrated?**
-A bit of frustration is how a young child learns, so you don't need to rush in and smooth every bump. The aim is productive struggle, not distress. Stay beside them, keep it warm, and step in if they tip from trying-hard into genuinely overwhelmed.
+A bit of frustration is how a young child learns, so you don't need to rush in and smooth every bump. The aim is productive struggle, not distress. Stay beside them, keep it warm, and step in if they tip from trying-hard into genuinely overwhelmed. What you say afterwards matters too, which is why it pays to think about [whether to tell your child they're clever](/blog/should-i-tell-my-child-theyre-clever/).
 
 **Isn't some screen time educational?**
 Some apps do teach facts, and a screen has its place. But at two to seven the learning that lasts comes from doing things with real hands and real materials, where a child feels weight, cause and effect, and their own effort. A screen can show a circle. Rolling a jar lid across the floor is how they come to know one.

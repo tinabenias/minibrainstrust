@@ -1,6 +1,6 @@
 ---
 title: "How do I help my child with big feelings?"
-description: "A 3 to 5 year old having big feelings is not misbehaving. Their brain is still building the part that calms them down. Here is how to help, backed by research, without a screen or a sticker chart."
+description: "Big feelings at 3 to 5 aren't misbehaviour. The brain is still building its brakes. How to help, backed by research, without a screen or sticker chart."
 category: "The hard hours"
 pubDate: 2026-08-30
 coverColor: "#CDDBF9"

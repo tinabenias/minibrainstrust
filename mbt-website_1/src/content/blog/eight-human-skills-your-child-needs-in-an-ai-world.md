@@ -1,6 +1,6 @@
 ---
 title: "The eight human skills your child will need in an AI world"
-description: "The jobs are changing faster than school can keep up. Here are the eight human strengths worth growing in your 3 to 5 year old now, and why they matter more than ever."
+description: "Jobs are changing faster than school can keep up. The eight human strengths worth growing in your 3 to 5 year old now, and why they matter."
 category: "AI & childhood"
 pubDate: 2026-08-05
 coverColor: "#CDDBF9"

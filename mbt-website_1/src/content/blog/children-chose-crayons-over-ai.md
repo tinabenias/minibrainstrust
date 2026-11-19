@@ -1,6 +1,6 @@
 ---
 title: "Given crayons and AI art, children chose the crayons"
-description: "When researchers gave children AI art tools, many reached for real crayons instead, and felt more connected to what they made by hand. Here is why that matters."
+description: "Given AI art tools, many children reached for real crayons and felt more connected to what they made by hand. Why that matters for your mini."
 category: "AI & childhood"
 pubDate: 2026-08-26
 coverColor: "#FFBDE3"

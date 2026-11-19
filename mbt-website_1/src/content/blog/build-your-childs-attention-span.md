@@ -1,6 +1,6 @@
 ---
 title: "How do I help my child build a longer attention span?"
-description: "A short attention span is normal at 3 to 5, and concentration is a skill that grows with the right kind of play. Here is what to expect, what wears it down, and how to help, backed by research."
+description: "A short attention span is normal at 3 to 5, and concentration grows with the right kind of play. What to expect, what wears it down and how to help."
 category: "Learning through play"
 pubDate: 2026-09-20
 coverColor: "#FFBDE3"

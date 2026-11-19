@@ -1,6 +1,6 @@
 ---
 title: "Why play is how young children actually learn"
-description: "For a 3 to 5 year old, play is not a break from learning. It is the main way learning happens. Here is the science of play-based learning, the difference between free and guided play, and how to use it at home."
+description: "For a 3 to 5 year old, play is the main way learning happens. The science of play-based learning, free versus guided play, and how to use it at home."
 category: "Learning through play"
 pubDate: 2026-08-24
 coverColor: "#FFBDE3"
@@ -19,7 +19,7 @@ Part of the confusion is that play does not look like learning. There is no work
 
 When children play, especially with other people, they practise the skills psychologists call executive function: holding an idea in mind, resisting the urge to grab, switching plans when the first one fails, and staying with something long enough to see it through. These are the mental control skills that sit underneath reading, maths, friendships and self-control. A landmark review in the journal [Science](https://www.science.org/doi/10.1126/science.1204529) found that these skills can genuinely be strengthened in early childhood through the right kinds of activity, and that they matter for school success at least as much as raw intelligence does.
 
-Play is one of the most natural ways to build them. Every game of pretend asks a child to hold a role in mind. Every turn-taking game asks them to wait. Every collapsed block tower asks them to try a different approach. That is executive function training, dressed up as fun.
+Play is one of the most natural ways to build them. Every game of pretend asks a child to hold a role in mind. Every turn-taking game asks them to wait. Every collapsed block tower asks them to try a different approach. That is executive function training, dressed up as fun. Even the squabbles count, which is worth remembering when you're trying to [get your kids to play together](/blog/how-to-get-your-kids-to-play-together/).
 
 ## Free play and guided play, and where the magic is
 

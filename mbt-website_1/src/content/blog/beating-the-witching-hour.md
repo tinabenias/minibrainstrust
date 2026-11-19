@@ -1,6 +1,7 @@
 ---
 title: "The toddler witching hour: 5 calm ways through the 5pm meltdown"
-description: "The witching hour — that meltdown-y stretch before dinner and bath — explained. Plus five quick, screen-free ways to calm a 3–5 year old and get everyone to bedtime in one piece."
+seoTitle: "Toddler witching hour: 5 calm ways through the 5pm meltdown"
+description: "The 5pm meltdown before dinner and bath, explained. Five quick, screen-free ways to calm a 3 to 5 year old and get everyone to bedtime in one piece."
 category: "The hard hours"
 pubDate: 2026-08-03
 updatedDate: 2026-08-19
@@ -10,7 +11,7 @@ coverImage: "/blog/witching-hour.jpg"
 draft: false
 ---
 
-Every parent of a toddler knows the hour. Somewhere between the end of the day and the start of the bath, a small child seems to come apart at the seams. They are tired, you are tired, dinner is not ready, and everything is suddenly the worst thing that has ever happened. This is the **witching hour**, and if it is turning your late afternoons into a nightly meltdown, you are very much not alone.
+Every parent of a toddler knows the hour. Somewhere between the end of the day and the start of the bath, a small child seems to come apart at the seams. They are tired, you are tired, dinner is not ready, and everything is suddenly the worst thing that has ever happened. This is the **witching hour**, and if it is turning your late afternoons into a nightly meltdown, you are very much not alone. Tiredness sits underneath most of it, and it helps to understand [why a child falls apart when they're tired](/blog/why-does-my-child-fall-apart-when-tired/).
 
 Here is the useful bit: a short, low-key activity is often the fastest way through it. A screen usually backfires here, winding them up and making the handover to bath even harder. What works is a small hands-on reset that gives their frazzled little brain something else to do. Below are five that really help and why they work — and after them, quick answers to the questions parents ask most about the witching hour.
 

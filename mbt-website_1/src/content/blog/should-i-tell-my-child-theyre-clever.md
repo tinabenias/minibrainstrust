@@ -1,6 +1,6 @@
 ---
 title: "Should I tell my child they're clever?"
-description: "It is better to praise the effort than the trait. Telling a 3 to 5 year old 'you worked so hard at that' instead of 'you're so clever' helps them keep going when things get difficult, and the research on why is surprisingly strong."
+description: "Praise the effort, not the trait. 'You worked so hard at that' instead of 'you're so clever' helps 3 to 5 year olds keep going when things get hard."
 category: "Learning through play"
 pubDate: 2026-10-18
 coverColor: "#FFBDE3"

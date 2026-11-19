@@ -1,6 +1,6 @@
 ---
 title: "How do I build my child's fine motor skills?"
-description: "Fine motor skills are the small hand and finger movements behind holding a pencil, doing up a button and threading a bead. Here is how everyday play builds them, and why they matter so much for school, backed by research."
+description: "Fine motor skills sit behind holding a pencil, doing up a button and threading a bead. How everyday play builds them, and why they matter for school."
 category: "Learning through play"
 pubDate: 2026-09-27
 coverColor: "#E7F0D8"

@@ -1,6 +1,6 @@
 ---
 title: "Why is outdoor play so important for young children?"
-description: "Outdoor play gives a 3 to 5 year old the big movement, fresh air and free-range attention a screen cannot. Here is what the research says, how much they need, and simple ways to get it."
+description: "Outdoor play gives 3 to 5 year olds big movement, fresh air and the free-range attention a screen can't. What the research says and how much they need."
 category: "Learning through play"
 coverImage: "/blog/outdoor-fresh-air.jpg"
 pubDate: 2026-09-13

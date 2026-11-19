@@ -1,6 +1,6 @@
 ---
 title: "How to raise a curious child (and why it matters now)"
-description: "Curiosity is the engine under lifelong learning, and it is easy to grow or squash. Simple, screen-free ways to raise a curious 3 to 5 year old, and why it matters more in an AI world."
+description: "Curiosity drives lifelong learning, and it's easy to grow or squash. Simple, screen-free ways to raise a curious 3 to 5 year old, and why it matters now."
 category: "Learning through play"
 pubDate: 2026-08-13
 coverColor: "#E7F0D8"
