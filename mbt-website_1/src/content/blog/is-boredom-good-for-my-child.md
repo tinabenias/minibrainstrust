@@ -5,6 +5,7 @@ category: "Learning through play"
 pubDate: 2026-10-05
 coverColor: "#CDDBF9"
 coverIcon: "space"
+coverImage: "/blog/bored-kids-couch.jpg"
 draft: false
 ---
 

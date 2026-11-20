@@ -6,6 +6,7 @@ category: "Play ideas"
 pubDate: 2026-11-02
 coverColor: "#E7F0D8"
 coverIcon: "story"
+coverImage: "/blog/foam-pit-play.jpg"
 draft: false
 ---
 

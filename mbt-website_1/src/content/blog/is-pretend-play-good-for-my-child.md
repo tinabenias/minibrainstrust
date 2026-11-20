@@ -5,6 +5,7 @@ category: "Learning through play"
 pubDate: 2026-10-11
 coverColor: "#FFBDE3"
 coverIcon: "story"
+coverImage: "/blog/pretend-play-kitchen.jpg"
 draft: false
 ---
 

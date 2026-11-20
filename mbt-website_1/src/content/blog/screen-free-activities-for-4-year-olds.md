@@ -6,6 +6,7 @@ category: "Play ideas"
 pubDate: 2026-10-25
 coverColor: "#FFBDE3"
 coverIcon: "shapes"
+coverImage: "/blog/slide-play.jpg"
 draft: false
 ---
 

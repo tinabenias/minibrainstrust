@@ -5,6 +5,7 @@ category: "Learning through play"
 pubDate: 2026-10-18
 coverColor: "#FFBDE3"
 coverIcon: "balance"
+coverImage: "/blog/rainbow-blocks-together.jpg"
 draft: false
 ---
 

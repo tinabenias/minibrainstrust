@@ -5,6 +5,7 @@ category: "The hard hours"
 pubDate: 2026-11-15
 coverColor: "#CDDBF9"
 coverIcon: "space"
+coverImage: "/blog/tired-child-sleeping.jpg"
 draft: false
 ---
 

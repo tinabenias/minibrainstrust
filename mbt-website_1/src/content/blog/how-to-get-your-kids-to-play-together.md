@@ -5,6 +5,7 @@ category: "The hard hours"
 pubDate: 2026-11-08
 coverColor: "#FFBDE3"
 coverIcon: "boxes"
+coverImage: "/blog/kids-playing-together.jpg"
 draft: false
 ---
 
